@@ -1,0 +1,1279 @@
+﻿#中文包
+Game.Server.Hello: Добро пожаловать.
+
+AttackEffect.Success:Этот раунд наступление запустить эффекты.
+DefenceEffect.Success:Этот раунд эффекты запустить оборону.
+AddAgilityEffect.msg:Чувствительная
+AddAttackEffect.msg:Штурмовая
+AddBombEquipEffect.msg:Связаться стимулом
+AddDamageEffect.msg:Тяжело ранен
+AddDanderEquipEffect.msg:Надругательство
+AddDefenceEffect.msg:Тач жена
+AddLuckyEffect.msg:Блажен
+AddTurnEquipEffect.msg:скорость Бог
+ArmorPiercerEquipEffect.msg:Броня
+AssimilateBloodEffect.msg:Кровососущие
+AssimilateDamageEffect.msg:Поглощение
+AtomBombEquipEffect.msg:Ядерная
+AvoidDamageEffect.msg:Уменьшите травмы
+ContinueReduceBaseDamageEquipEffect.msg:Недостатки
+ContinueReduceBloodEquipEffect.msg:Бернс
+FatalEffect.msg:Ведущий
+IceFronzeEquipEffect.msg:Вечная мерзлота
+LockDirectionEquipEffect.msg:Сеть
+MakeCriticalEffect.msg:Насилие стимулом
+NoHoleEquipEffect.msg:Использование сопротивления
+RecoverBloodEffect.msg:Восстановление
+ReduceStrengthEquipEffect.msg:Устали
+ReduceDamageEffect.msg:затвердевания
+ReflexDamageEquipEffect.msg:Отражение
+SealEquipEffect.msg:Печать
+
+#Соглашение пакет не может добавить префикс пространства имен
+ConsortiaAllyAddHandler.Add_Success1: Отменить успеха.
+ConsortiaAllyAddHandler.Add_Success2: Объявлен успех война.
+ConsortiaAllyAddHandler.Add_Failed: Операция не.
+ConsortiaApplyAllyAddHandler.Add_Success:Пожалуйста, позвольте успешным.
+ConsortiaApplyAllyAddHandler.Add_Failed:Пожалуйста, позвольте провал.
+ConsortiaApplyAllyDeleteHandler.Success:Удалить успеха.
+ConsortiaApplyAllyDeleteHandler.Failed:Удалить провал.
+ConsortiaApplyAllyDeleteHandler.Failed:Отказ провал разрешения.
+ConsortiaApplyAllyDeleteHandler.Success:Отказ разрешение к успеху.
+ConsortiaApplyLoginHandler.ADD_Success:Пожалуйста, позвольте успешным.
+ConsortiaApplyLoginHandler.ADD_Failed:Пожалуйста, позвольте провал.
+ConsortiaApplyLoginHandler.DELETE_Success:Удалить успех разрешений.
+ConsortiaApplyLoginPassHandler.Failed:Отказ Ратификация приглашения.
+ConsortiaApplyLoginPassHandler.Success:Успешное приглашение Реализация.
+ConsortiaChangeChairmanHandler.Failed:Передача удалось президента.
+ConsortiaChangeChairmanHandler.Success1:Франчайзинг возможности для роста <
+ConsortiaChangeChairmanHandler.Success2:>.
+ConsortiaDescriptionUpdateHandler.Success:Успешное обновление.
+ConsortiaDescriptionUpdateHandler.Failed:Отказ Обновление.
+ConsortiaDisbandHandler.Success1:<
+ConsortiaDisbandHandler.Success2:>Растворяли.
+ConsortiaDisbandHandler.Failed:Отраслевые ассоциации расформирован провал.
+ConsortiaDutyDeleteHandler.Failed:Удалить неудавшиеся позиции.
+ConsortiaDutyDeleteHandler.Success:Удалить успешное служение.
+ConsortiaDutyUpdateHandler.Failed:Положение Обновление неудачу.
+ConsortiaDutyUpdateHandler.Success:Обновление успешно министерство.
+ConsortiaInviteAddHandler.Failed:Пригласить провал.
+ConsortiaInviteAddHandler.Success:Успешные предложения.
+ConsortiaInviteDeleteHandler.Failed:Удалить провал приглашения.
+ConsortiaInviteDeleteHandler.Success:Удалить приглашения успеха.
+ConsortiaInvitePassHandler.Failed:Через неудачи приглашения.
+ConsortiaInvitePassHandler.Success:Через успеха приглашения.
+ConsortiaIsBanChatHandler.Failed:Операция не.
+ConsortiaIsBanChatHandler.Success:Успешная работа.
+ConsortiaPlacardUpdateHandler.Failed:Отказ Обновление.
+ConsortiaPlacardUpdateHandler.Success:Успешное обновление.
+ConsortiaUserDeleteHandler.ExitFailed:Оставив встречу не удалось.
+ConsortiaUserDeleteHandler.KickFailed:Исключенный из отказа Конгресса.
+ConsortiaUserDeleteHandler.ExitSuccess:Оставляя шансы на успех.
+ConsortiaUserDeleteHandler.KickSuccess:Исключенный из шансом на успех.
+ConsortiaUserGradeUpdateHandler.Failed:Операция не.
+ConsortiaUserGradeUpdateHandler.Success:Успешная работа.
+ConsortiaUserRemarkHandler.Failed:Операция не.
+ConsortiaUserRemarkHandler.Success:Операция успешно.
+FriendAddHandler.Falied:Хорошо дружба, которая существовала.
+FriendAddHandler.Success:N, по прозвищу ошибка.
+GameTakeTempItemsHandler.Msg:Багаж полна.
+GameUserCreateHandler.Failed:Номер был полный, повторите попытку позже.
+GameUserLoginHandler.Capture:Временная нет тип подходит номер.
+GameUserLoginHandler.Team:Временная нет тип подходит номер.
+GameUserLoginHandler.Failed:Количество человек в этом номере полна.
+GameUserStartHandler.Failed:Наша команда является несбалансированным или не готовы.
+GameUserStartHandler.Failed2:Там неподготовленными команда.
+GoodsPresentHandler.Success:Отправить подарок успеха.
+GoodsPresentHandler.Content:Отправьте пожертвование 1 [
+GoodsPresentHandler.NoMoney:Монеты не являются достаточно.
+GoodsPresentHandler.NoUser:Пользователь не существует.
+ItemComposeHandler.NoMoney:Монеты не являются достаточно.
+ItemComposeHandler.NoLevel:Атрибут пунктов выше атрибуты безопасности окаменелость.
+ItemComposeHandler.NoCondition:Условия неправильных элементов.
+ItemFusionHandler.NoMoney:Монеты не являются достаточно.
+ItemFusionHandler.NoPlace:Багаж не хватает места.
+ItemFusionHandler.NoCondition:Не удается продолжить.
+ItemFusionHandler.ItemNotEnough:Предметы, которые не достаточно.
+ItemOverdueHandler.Content:Просроченные товары.
+ItemOverdueHandler.Title:Просроченные товары.
+ItemStrengthenHandler.NoMoney:Монеты не являются достаточно.
+ItemStrengthenHandler.NoStrength:Этот пункт не может разглагольствовать.
+ItemStrengthenHandler.Content1:Нет разглагольствования соответствующих объектов, как минимум: [
+ItemStrengthenHandler.Content2:] Камни.
+ItemStrengthenHandler.NoCondition:Предметы повышения Условия ошибке.
+MailGetAttachHandler.Falied:Почтовый провал.
+MailGetAttachHandler.NoMoney:Монеты не являются достаточно.
+MailGetAttachHandler.Success:Почтовый успех.
+MailGetAttachHandler.NoPlace:Инвентарь полон, не могут быть сохранены статьи.
+OpenUpArkHandler.NoPlace:Багаж не хватает места.
+OpenUpArkHandler.Start:Вы получаете 
+OpenUpArkHandler.Money:  Манеты.   
+OpenUpArkHandler.Gold:  Золото.
+OpenUpArkHandler.GiftToken:  Сюй Блокировка.
+OpenUpArkHandler.Medal:  Медаль.
+OpenUpArkHandler.Exp:  опыт.
+PropBuyHandler.NoMoney:Золото не достаточно денег.
+UserPresentGoodsHandler.Success:Дайте ваш успех.
+UserBuyItemHandler.Success:Покупка успех.
+UserBuyItemHandler.Save:Сохранить свой ​​успех.
+UserBuyItemHandler.Title:Купите детали 
+UserBuyItemHandler.Mail:Багаж не достаточно, чтобы спасти почтовые отправления.
+UserBuyItemHandler.NoMoney:Монеты не являются достаточно.
+UserBuyItemHandler.Medal:Медали не достаточно.
+UserLoginHandler.EditionError:Версия клиента слишком низкая, очистить кэш и попробуйте еще раз.
+UserLoginHandler.Forbid:Ваш аккаунт был заблокирован, если у Вас возникли вопросы, пожалуйста, свяжитесь со службой поддержки.
+UserLoginHandler.Register:Подпишитесь на новом изображении, а затем войти в игру.
+UserLoginHandler.OverTime:Ваше Войти истекло, пожалуйста, войдите снова.
+UserLoginHandler.LoginError:Ваша учетная запись была вошли в другом месте.
+UserLoginHandler.ServerError:Вход на сервер не удалось, попробуйте на разных серверах.
+UserPrivateChatHandler.NoUser:Ни один пользователь или пользователь не является не онлайн.
+UserSendMailHandler.Success:Отправить письмо.
+UserSendMailHandler.Failed1:Невозможно записать в нее.
+UserSendMailHandler.Failed2:Пользователь не существует.
+ConsortiaApplyAllyPassHandler.Success:Обращение успеха.
+ConsortiaApplyAllyPassHandler.Failed:Работа с неудачи.
+UserItemContineueHandler.NoMoney:Деньги не достаточно.
+MailGetAttachHandler.Deduct:Успех Вычет,
+ConsortiaUpGradeHandler.Success:Успешно способствовало Гильдия.
+ConsortiaUpGradeHandler.Failed:В связи с системных ошибок, сбоев Гильдии уровень выше, повторите попытку позже.
+ConsortiaBufferUpGradeHandler.Success:Гильдия успех продвижение навыки.
+ConsortiaBufferUpGradeHandler.Failed:Благодаря системной ошибки, Гильдия уровень выше навыки не удалось, попробуйте еще ​​раз позже.
+ConsortiaCreateHandler.Failed:Создать поражение.
+ConsortiaCreateHandler.Success:Создание успешной.
+OpenUpArkHandler.Title:Откройте сундук, чтобы получить детали [
+OpenUpArkHandler.Content1:Потому что, когда вы открываете сундук с предметов исследования, [
+OpenUpArkHandler.Content2: быть отправлено по электронной почте
+OpenUpArkHandler.Mail:Продукты, поступающие на почте, 
+ConsortiaUpGradeHandler.NoUpGrade:Не можете выровнять больше.
+ConsortiaUpGradeHandler.NoItem:Отсутствие элементов продвижения.
+ConsortiaUpGradeHandler.NoConsortia:Гильдия не существует.
+ConsortiaUpGradeHandler.NoGold:Монеты не являются достаточно.
+ConsortiaChangeChairmanHandler.NoName:Имя пользователя не может быть пустым.
+ConsortiaChangeChairmanHandler.Self:Не удается отправить их.
+ConsortiaChatHandler.IsBanChat:Вы запретили говорить.
+ConsortiaCreateHandler.Long:Название интеграции слишком долго.
+ConsortiaDescriptionUpdateHandler.Long:Содержимое Введен слишком длинный.
+ConsortiaDutyUpdateHandler.Long:Участники Позиция Введен слишком длинный.
+ConsortiaPlacardUpdateHandler.Long:Содержимое Введен слишком длинный.
+ConsortiaUserRemarkHandler.Long:Содержимое Введен слишком длинный.
+ActivePullDownHandler.Fail:Подарок код Неточный.
+
+Game.Server.GameObjects.Equip:Одета
+Game.Server.GameObjects.Prop:Реквизит
+Game.Server.GameObjects.BeadBag:Сокровища
+Game.Server.GameObjects.FightBag:Бой
+Game.Server.GameObjects.FarmBag:Ферма
+Game.Server.GameObjects.Task:Обязанности 
+Game.Server.GameObjects.NoEquip:Предметы, которые не могут быть установлены.
+Game.Server.GameObjects.CanEquip:Вы не можете использовать эту функцию.
+Game.Server.GameObjects.CanLevel:Уровень слишком низкий, не могут использовать эту функцию.
+
+
+
+Game.Server.GameUtils.Title:Просроченные товары.
+Game.Server.GameUtils.Content:Просроченные товары.
+
+
+Game.Server.Managers.GameStart:Игры начались.
+Game.Server.Managers.PWDError:Неверный пароль.
+Game.Server.Managers.ConsortiaError:Отраслевые ассоциации не то же самое.
+
+
+Game.Server.Quests.NoQuest:Задача не существует.
+Game.Server.Quests.QuestFull:Список задач полна.
+Game.Server.Quests.NoTime:Время для задачи.
+Game.Server.Quests.TimeOver:Просроченные задачи.
+Game.Server.Quests.LevelLow:Класс персонажа не достаточно.
+Game.Server.Quests.LevelTop:Символы высокого уровня.
+Game.Server.Quests.NoFinish:Неоконченная задача, стоящая перед.
+Game.Server.Quests.Have:Эта задача получила.
+Game.Server.Quests.NoRepeat:Эта задача не должны пересекаться.
+Game.Server.Quests.Rest:Пожалуйста, повторите попытку позже.
+Game.Server.Quests.BagFull:Инвентарь полон, не может завершить задачу .
+
+
+
+Game.Server.SceneGames.TankHandle.PropFull:Реквизит бар полон, вынуть провал.
+Game.Server.SceneGames.KickRoom:Вы были вытеснены из комнаты.
+Game.Server.SceneGames.NoEquip:Нет вооруженный.
+Game.Server.SceneGames.NoConsortia:Все не то же самое Открытое заседание .
+Game.Server.SceneGames.KickMsg1:Ваша сеть работает слишком медленно, проверьте сеть и попробуйте еще раз.
+Game.Server.SceneGames.KickMsg2:Ваша сеть работает слишком медленно, проверьте сеть и попробуйте еще раз..
+Game.Server.SceneGames.KickMsg3:Время ожидания было слишком долго.
+Game.Server.SceneGames.OnStopping.Msg1:война танца <
+Game.Server.SceneGames.OnStopping.Msg2:> Победы.
+Game.Server.SceneGames.OnStopping.Msg3:быть <
+Game.Server.SceneGames.OnStopping.Msg4:>  атака.
+Game.Server.SceneGames.KickRoom2:выталкивается из комнаты.
+Game.Server.SceneGames.PairUpTimeOut:Временно не имеет соответствующего команду, повторите попытку позже.
+
+Game.Server.LoginNext:Ваша учетная запись была вошли в другом месте..
+
+
+Game.Service.actions.ShutDown1:Техническое обслуживание после 
+Game.Service.actions.ShutDown2: минут, быстро выйти из.
+
+
+
+ActiveBussiness.Msg0:Успешно получил, предметы были отправлены в пользователя.
+ActiveBussiness.Msg1:Неизвестная ошибка.
+ActiveBussiness.Msg2:Имя пользователя не существует.
+ActiveBussiness.Msg3:Получить предметы не удалось.
+ActiveBussiness.Msg4:Это число не существует, пожалуйста, зайдите.
+ActiveBussiness.Msg5:Это получило некоторое вознаграждение, не может получить больше.
+ActiveBussiness.Msg6:Вы получили эту награду раньше.
+ActiveBussiness.Msg7:Активность же начать.
+ActiveBussiness.Msg8:Активность назрела.
+ActiveBussiness.Msg9:Получить вознаграждены провал.
+
+
+ConsortiaBussiness.AddConsortia.Msg2:Это имя было зарегистрировано.
+ConsortiaBussiness.DeleteConsortia.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.UpdateConsortiaDescription.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.UpdateConsortiaPlacard.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.UpdateConsortiaChairman.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.AddConsortiaApplyUsers.Msg2:Отраслевые ассоциации не существует.
+ConsortiaBussiness.AddConsortiaApplyUsers.Msg6:Некоторые социальные работники работают полный.
+ConsortiaBussiness.DeleteConsortiaApplyUsers.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.PassConsortiaApplyUsers.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.PassConsortiaApplyUsers.Msg3:Этот журнал не существует.
+ConsortiaBussiness.AddConsortiaInviteUsers.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.AddConsortiaInviteUsers.Msg4:Пользователь не существует.
+ConsortiaBussiness.AddConsortiaInviteUsers.Msg5:Ассоциация Игроков присоединилось .
+ConsortiaBussiness.AddConsortiaInviteUsers.Msg6:Некоторые социальные работники работают полный.
+ConsortiaBussiness.PassConsortiaInviteUsers.Msg3:Нет приглашение.
+ConsortiaBussiness.DeleteConsortiaUser.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.DeleteConsortiaUser.Msg3:Председатель Ассамблеи, не могут оставлять .
+ConsortiaBussiness.DeleteConsortiaUser.Msg4:Не можете выслать Председателя .
+ConsortiaBussiness.UpdateConsortiaIsBanChat.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.UpdateConsortiaUserRemark.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.UpdateConsortiaUserGrade.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.AddConsortiaDuty.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.AddConsortiaDuty.Msg3:Позиция полна.
+ConsortiaBussiness.DeleteConsortiaDuty.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.DeleteConsortiaDuty.Msg3:Не удается удалить эту позицию.
+ConsortiaBussiness.UpdateConsortiaDuty.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.UpdateConsortiaDuty.Msg3:Не можете больше двигаться.
+ConsortiaBussiness.UpdateConsortiaDuty.Msg4:Не можете больше двигаться.
+ConsortiaBussiness.DeleteConsortiaDuty.Msg5:Позиция полна.
+ConsortiaBussiness.AddConsortiaApplyAlly.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.AddConsortiaApplyAlly.Msg3:Отраслевые ассоциации не существует.
+ConsortiaBussiness.AddConsortiaApplyAlly.Msg4:Отраслевые ассоциации присоединился к коалиции.
+ConsortiaBussiness.DeleteConsortiaApplyAlly.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.PassConsortiaApplyAlly.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.PassConsortiaApplyAlly.Msg3:Эта информация не существует.
+ConsortiaBussiness.AddConsortiaAlly.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.AddConsortiaAlly.Msg3:Вы не должны эту власть.
+ConsortiaBussiness.UpGradeConsortia.Msg2:Вы не должны эту власть.
+ConsortiaBussiness.UpGradeConsortia.Msg3:Не можете выровнять больше.
+ConsortiaBussiness.UpGradeConsortia.Msg4:Бюджет Ассамблея не достаточно.
+ConsortiaBussiness.PassConsortiaInviteUsers.Msg6:Некоторые социальные работники работают полный.
+ConsortiaBussiness.PassConsortiaApplyUsers.Msg6:Некоторые социальные работники работают полный.
+ConsortiaBussiness.UpdateConsortiaUserGrade.Msg3:Общество не может быть повышен до начальника.
+ConsortiaBussiness.UpdateConsortiaUserGrade.Msg4:Не можете выровнять больше.
+ConsortiaBussiness.UpdateConsortiaUserGrade.Msg5:Невозможно понизить снова.
+ConsortiaBussiness.UpdateConsortiaUserGrade.Msg10:Председатель не может понизить.
+ConsortiaBussiness.UpdateConsortiaIsBanChat.Msg3:Пользователь не существует.
+
+
+
+
+ManageBussiness.Forbid:Ваш аккаунт был заблокирован, пожалуйста, свяжитесь с GM для получения дополнительной информации.
+
+
+PlayerBussiness.RegisterPlayer.Msg2:Имя пользователя уже существует.
+PlayerBussiness.RegisterPlayer.Msg3:Имя пользователя уже существует.
+PlayerBussiness.SendMailAndItem.Sender:Системный администратор
+PlayerBussiness.DeleteAuction.Msg1:Отменить успеха.
+PlayerBussiness.DeleteAuction.Msg2:Аукцион не существует.
+PlayerBussiness.DeleteAuction.Msg3:Этот пункт был участия в аукционе.
+PlayerBussiness.DeleteAuction.Msg4:Отказ Отменить.
+
+
+
+
+
+
+
+
+
+
+
+Tank.Request.Login.Fail1:Войти не удалось.
+Tank.Request.Login.Fail2:Войти не удалось..
+Tank.Request.Login.Success:Войти успешным.
+Tank.Request.VisualizeRegister.Fail1:Отказ регистрации изображения.
+Tank.Request.VisualizeRegister.Success:Регистрация изображение успех.
+Tank.Request.VisualizeRegister.Long:Прозвище пользователи слишком долго.
+
+
+
+
+
+BaseInterface.LoginAndUpdate.Fail:Отказ Активация.
+BaseInterface.LoginAndUpdate.Try:Войти время истекло, пожалуйста, войдите снова.
+
+
+PlayerBussiness.RegisterPlayer.Msg2:Прозвище пользователь уже существует.
+PlayerBussiness.RegisterPlayer.Msg3:Прозвище пользователь уже существует.
+
+
+
+
+Center.Server.SendKitoffUser:Ваш счет Логин другом месте...
+
+
+
+
+AuctionAddHandler.Fail:Отказ Аукцион.
+AuctionAddHandler.Msg1:Стартовая цена не может быть меньше 0.
+AuctionAddHandler.Msg2:Цена не может быть меньше решимости, чем резервной цены.
+AuctionAddHandler.Msg3:Накопления заряда не достаточно.
+AuctionAddHandler.Msg4:Предметы, которые не существуют.
+AuctionAddHandler.Msg5:Предметы, которые не могут заблокировать аукцион.
+AuctionAddHandler.Msg6:Этот пункт был добавлен к аукционам линии.
+AuctionDeleteHandler.Fail:Отмена отказа аукциона.
+AuctionUpdateHandler.Fail:Отказ Аукцион.
+AuctionUpdateHandler.Msg1:Этот пункт не существует.
+AuctionUpdateHandler.Msg2:Монеты не являются достаточно.
+AuctionUpdateHandler.Msg3:Обменные пункты не хватает.
+AuctionUpdateHandler.Msg4:Запрашиваемая цена не может быть ниже, чем стартовая цена.
+AuctionUpdateHandler.Msg5:Запрашиваемая цена не может быть ниже, чем текущая цена.
+AuctionUpdateHandler.Msg6:Успешное Аукцион.
+AuctionUpdateHandler.Msg7:Успех, пункт признание.
+
+
+
+
+ItemFusionHandler.Succeed1: Успех! Получить {0}
+ItemFusionHandler.Failed: Переработка мощность провал!
+
+
+UserItemContineueHandler.Success:Платные успех
+
+#add time 09-05-21
+ConsortiaRichesOfferHandler.Failed:Разрушающая нагрузка Communications 
+ConsortiaRichesOfferHandler.Success:Коммуникации успешно загружен
+ConsortiaRichesOfferHandler.NoMoney:Не хватает денег 
+ConsortiaApplyAllyDeleteHandler.Success2:Успешная работа.
+LoginServerConnector.HandleSysMess.Msg1:[{0}]Offline.
+
+ItemTransferHandler.NoMoney:Ваши деньги не достаточно. 	
+ItemTransferHandler.NoGold:Ваш номер не достаточно Сюй.    
+ItemTransferHandler.NoCondition: Не право на смену.  
+ItemTransferHandler.Success:Предметы атрибуты сдвига успеха.
+
+#add time 09-06-03
+Game.Server.SceneGames.PairUp.Failed:Объединение не удалось, попробуйте еще раз.
+Game.Server.Quests.NoConsortia:Нет Гильдия, задача не может получить Гильдию.
+Game.Server.SceneGames.OnStopping.Msg5:Игроки   
+
+
+
+AbstractPacketLib.SendGamePlayerLeave.Msg1: Игроки [{0}] оставил. 
+AbstractPacketLib.SendGamePlayerLeave.Msg2: Не оставляя обычный бой, за исключением {0} Заслуги очки 
+AbstractPacketLib.SendGamePlayerLeave.Msg3: Игроки [{0}] выйти из игры, если необычное {1} Заслуги очки.  
+
+
+
+
+# 09-07-07
+ConsortiaBussiness.UpdateConsotiaApplyState.Msg2: Вы не можете
+CONSORTIA_APPLY_STATE.Failed:Операция не..
+CONSORTIA_APPLY_STATE.Success: Успешная работа
+ConsortiaBussiness.AddConsortiaApplyUsers.Msg7: Это Гильдия присоединился неактивным
+
+UserSendMailHandler.AnnexRemark:  Прикрепите:
+UserSendMailHandler.Money:Сюй
+UserSendMailHandler.PayMoney:Ответить тенденцию
+GoodsPresentHandler.AnnexRemark: Прикрепите:
+
+
+
+
+AbstractPacketLib.SendGamePlayerLeave.Msg4: Аномальная Выход, - {0} опыт
+AbstractPacketLib.SendGamePlayerLeave.Msg5: [{0}] Аномальная Выход, - {1} опыт
+
+AbstractPacketLib.SendGamePlayerLeave.Msg6:  Аномальная Выход, - {0} опыт, - {1} Заслуга
+
+AbstractPacketLib.SendGamePlayerLeave.Msg7: [{0}] Аномальная Выход, - {1} опыт, - {2} Заслуга
+
+                                    
+
+
+#2009-7-15
+ASSInfoSetHandle.NoPlace: Проверьте песню, карманы полный, провал на получение награды
+ASSInfoSetHandle.Success: Проверено, получать <{0}>.
+
+CheckCodeHandler.Msg1: Правильный ответ, награда {0} опыт
+CheckCodeHandler.Msg2: Правильный ответ, сумка полна, неспособность получать награду
+CheckCodeHandler.Msg3: Неверный ответ
+
+
+Tank.Request.NickNameCheck.Long:Ник слишком долго
+Tank.Request.NickNameCheck.Right:ура! Имя персонажа можно использовать.
+Tank.Request.NickNameCheck.Exist:Имя, используемое
+Tank.Request.ConsortiaCheck.Right:Поздравляем! Имена Ассамблеи может быть использован.
+                                                                  
+
+#2009-7-24
+ConsortiaBussiness.UpGradeStoreConsortia.Msg2: Вы не можете
+ConsortiaBussiness.UpGradeStoreConsortia.Msg3: Гильдии недостаточный уровень не можете обновить снова
+ConsortiaBussiness.UpGradeStoreConsortia.Msg4: Гильдии недостаток сбережений
+ConsortiaStoreUpGradeHandler.Success: Безопасный повышен 
+ConsortiaStoreUpGradeHandler.Failed: Безопасный модернизации устаревших, повторите попытку позже
+ConsortiaStoreUpGradeHandler.NoConsortia: Гильдия не существует
+ConsortiaBussiness.UpGradeSmithConsortia.Msg2: Вы не можете
+ConsortiaBussiness.UpGradeSmithConsortia.Msg3: Гильдии недостаточный уровень не может быть повышен
+ConsortiaBussiness.UpGradeSmithConsortia.Msg4: Гильдии недостаток сбережений
+
+
+Game.Server.GameUtils.CommonBag.AnnexRemark: Прикрепите:
+Game.Server.GameUtils.CommonBag.Title: Наименование статьи
+Game.Server.GameUtils.CommonBag.Sender: Гильдии безопасное возвращение
+
+#2009-7-28
+ConsortiaSmithUpGradeHandler.Failed: Кузнечный цех модернизации устаревших, повторите попытку позже
+
+ConsortiaSmithUpGradeHandler.NoConsortia: Гильдия не существует 
+ConsortiaSmithUpGradeHandler.Success: Магазин ковка успешного обновления.
+
+
+
+ConsortiaShopUpGradeHandler.Failed: Магазин обновить не удается, повторите попытку позже
+
+ConsortiaShopUpGradeHandler.NoConsortia: Гильдия не существует 
+
+ConsortiaShopUpGradeHandler.Success: Магазин успешного обновления
+ConsortiaBussiness.UpGradeShopConsortia.Msg2: Вы не можете 
+ConsortiaBussiness.UpGradeShopConsortia.Msg3: Гильдии недостаточный уровень не может быть повышен
+ConsortiaBussiness.UpGradeShopConsortia.Msg4: Гильдии недостаток сбережений 
+
+
+UserChangeItemColorHandler.Success: Успех обесцвечивание
+UserChangeItemColorHandler.NoMoney: Сюй не достаточно
+
+
+
+BuffList.AddBuff.Msg1: Невозможно использовать
+BuffList.AddBuff.Msg2: Этот эффект имеет 
+
+UpdateSLOT.ResetComplete: Вы получаете {0} Точечные карты.
+UpdateSLOT.Complete:Успешно обновлен, чтобы выровнять окно карты  {0}.
+UpdateSLOT.Fail:Минимальная оценка является 50.
+Game.Server.SceneGames.Protect: Карта использует анти-лед.
+ItemStrengthenHandler.Fail: Интенсивность поражения
+ItemStrengthenHandler.congratulation:Приветствия! [{0}] повышение {1} Уровень успеха {2}, высшие способности.
+OpenHoleHandler.congratulation:Приветствия! [{0}] перфорированная сим слот {1} [{2}] Уровень успеха  {3}, высшие способности.
+OpenBeadHandler.congratulation:Приветствия! [{0}] продвижение {1} Уровень успеха {2}, высшие способности.
+
+OpenHoleHandler.Complete: нет названия
+OpenHoleHandler.GetExp:Вы получаете {0} exp.
+ManageBussiness.Forbid1: Счет заблокирован {0}лет{1}месяцев{2}Дата{3}сейчас{4}минут
+
+
+UserLoginHandler.RsaCryptorError: Ошибка декодирования
+UserLoginHandler.LengthError: Неправильный способ
+CardUseHandler.Success:  Успешная работа
+CardUseHandler.Fail: Операция не
+
+Tank.Request.NickNameCheck.Exist: Имя, используемое
+
+#2009-07-27
+MarryInfoAddHandler.Fail: Более подробная информация отказ
+MarryInfoAddHandler.Msg1: Не хватает заряда
+MarryInfoAddHandler.Msg2: Имеет больше информации
+
+MarryInfoDeleteHandler.Fail: Удалить провал информационной
+PlayerBussiness.DeleteAuction.Succeed: Удалить успешный информацию
+
+MarryInfoUpdateHandler.Fail: Успешно обновил информацию
+
+MarryInfoUpdateHandler.Msg1: Информация удалена
+MarryInfoUpdateHandler.Succeed: Успешно обновил информацию
+
+MarryRoomLoginHandler.Failed:  Не при неудаче комнате, нет места 
+MarryRoomLoginHandler.Forbid: Вы запретили этой комнате
+MarryRoomLoginHandler.AlreadyBegin: Празднуют свою свадьбу, пожалуйста, подождите
+MarryRoomLoginHandler.RoomExist: У вас есть 1 проход, а не больше. Порадуйте свой путь в онлайн {0} Количество {1}. Давай в 
+
+MarryApplyHandler.Msg1: Сюй не достаточно
+MarryApplyHandler.Msg2: У вас есть брачные отношения
+MarryApplyHandler.Msg3: Предлагает, чтобы закончить, ожидая ответа. Ваша любовь коснулась его
+MarryApplyHandler.Msg4: Для остальных принятых
+MarryApplyHandler.Msg5:[{0}] мужество, чтобы выразить любовь и любовь к своей [{1}]. 
+MarryApplyHandler.Msg6: Купите детали неудачных
+
+
+DivorceApplyHandler.Msg1: Сюй не достаточно
+DivorceApplyHandler.Msg2: Брак не закончена, не развод
+DivorceApplyHandler.Msg3: Успешное Развод!
+
+MarryApplyReplyHandler.Msg1: Приветствия [{0}]и[{1}] официальная зарплата супругов побережье. 
+MarryApplyReplyHandler.Msg2: Вы женаты, не заменить сердце
+MarryApplyReplyHandler.Msg3:  Для брака на чужую, в следующий раз быстрее стоматолога
+MarryApplyReplyHandler.Content:  Есть ли у вас хорошо выглядеть, а также
+MarryApplyReplyHandler.Title: Вы получаете хорошие карты
+
+MarryRoom.TimeOver: Зал приурочено использование
+
+HymenealCommand.Content: Это вещественные доказательства за вашу любовь и {0}. Давайте положить его в руке, чтобы сжать его сердце было форума
+HymenealCommand.Title: Обручальные кольца
+HymenealCommand.NoGroom: Жених отсутствует, не в состоянии поклонения
+HymenealCommand.NoBride: Невеста отсутствует, не в состоянии поклонения
+
+HymenealCommand.Sender: Почтовая система
+
+
+HymenealCommand.Succeed: Свадьба [{0}]и[{1}] начало
+
+LargessCommand.Content: {0} давая вам {1}металл фестиваль
+LargessCommand.Title: Массовые металлы по {0} Подарок
+LargessCommand.Sender: Почтовая система
+
+LargessCommand.Succeed:	 Дайте Metal Festival успеха
+LargessCommand.Notice: [{0}] Молодые пары подарочные конверты {1} и
+
+Game.Server.Quests.FinishQuest.RewardGB:  Вы получаете {0} опыт
+
+Game.Server.Quests.FinishQuest.RewardGold:  {0} Золото
+Game.Server.Quests.FinishQuest.RewardOffer: {0} Заслуга
+Game.Server.Quests.FinishQuest.RewardRiches: {0} недвижимость
+Game.Server.Quests.FinishQuest.RewardProp:{0}x{1}
+
+
+AwardMgr.AddDailyAward.Content: Поскольку мешок заполнен,[{0}] отправлен на ваш почтовый ящик
+AwardMgr.AddDailyAward.Title: Каждый день на сайте получении [{0}].
+
+Bag.Locked: Сумки не разблокировать
+BagUnlock.success: Разблокировать успеха
+SetPassword.success: Успешно установлено криптографической
+SetPassword.Fail: Успешно установлено криптографической
+PasswordTwo.error: Неверный пароль
+UpdatePasswordTwo.Success: Редактировать пароль успешно
+UpdatePasswordTwo.Fail: Неправильный первоначальный пароль
+
+
+AwardMgr.AddDailyAward.Start: Вы получаете
+AwardMgr.AddDailyAward.Mail: Продукты, хранящиеся в
+AwardMgr.AddDailyAward.Gold: Золото
+AwardMgr.AddDailyAward.Money: Сюй
+AwardMgr.AddDailyAward.GP: Опыт
+AwardMgr.AddDailyAward.Offer: Кредиты
+AwardMgr.AddDailyAward.Buff: Протокол
+
+
+
+ItemStrengthenHandler.FailbyPermission: Это посвящение не достаточно, нажмите кнопку, чтобы увидеть менеджера Гильдии.
+UserBuyItemHandler.FailByPermission: Дисквалификация, неспособность управлять.
+
+
+
+ConsortiaBussiness.AddAndUpdateConsortiaEuqipControl.Msg2: Вы не можете
+ConsortiaEquipControlHandler.Success: Успех
+ConsortiaEquipControlHandler.Fail: Отказ
+
+UserFirecrackersCommand.GoldNotEnough: Золото не достаточно.
+UserFirecrackersCommand.MoneyNotEnough: Сюй не достаточно.
+UserFirecrackersCommand.Successed1: Фейерверк закончил, за исключением {0} Золото
+UserFirecrackersCommand.Successed2: Фейерверк закончил, за исключением {0} Золото
+
+
+ConsortiaRichesOfferHandler.Successed: Успешно поднял
+
+ContinuationCommand.Successed: Перезагрузить вознаграждение за успех
+
+MarryRoomCreateHandler.Msg1: У Вас уже есть один проход, не может воссоздать. 
+DeletePassword.success: Удалить успех пароль
+DeletePassword.Fail: Удалить неудачи пароль 
+
+MarryRoom.Msg1: Комнаты были заполнены
+
+MarryRoomInfoUpdateHandler.Successed: Информация обновлена ​​успешно
+
+MarryRoomCreateHandler.IsCreating: Номер, который вы создаете, пожалуйста, подождите. 
+
+OpenUpArkHandler.Notice:Приветствия {0}начало {1} получил {2}.
+
+
+Game.Server.Quest.QuestInventory.HaveMarry:Никогда не была замужем.
+GunsaluteCommand.GoldNotEnough:Золото не достаточно.
+GunsaluteCommand.MoneyNotEnough:Сюй не достаточно.
+GunsaluteCommand.Successed1:[{0}] от фейерверков.
+SceneChatHandler.Fast:Вы печатать быстрее, чем.
+
+
+GamePairUpCancelHandler.PlayerCancel:Потому что игрок готов отменить, объединить не удалось, попробуйте еще раз.
+Game.Server.Quests.FinishQuest.RewardMoney: {0} точечные купоны 
+
+
+Game.Server.Quests.FinishQuest.Reward: Вы получаете: 
+Game.Server.Quests.FinishQuest.RewardGB1: {0} опыт 
+
+Game.Server.Quests.FinishQuest.RewardBuff: {0} {1} сейчас 
+
+
+
+
+# 2009/09/22 
+Game.Server.Quests.FinishQuest.NoCount: недостаточное количество элементов задачи в рюкзаке. 
+
+
+# 2009/09/26 
+PlayerBussiness.RenameNick.Msg4: ник уже существует. 
+Tank.Request.RenameNick.Success: изменение прозвище успешно используется. 
+Tank.Request.RenameNick.Fail1: неспособность изменить ник. 
+Tank.Request.RenameNick.Fail2: неспособность изменить ник .. 
+
+PlayerBussiness.SP_Users_RenameConsortiaName.Msg4: Название Ассоциация уже существует. 
+Tank.Request.RenameConsortiaName.Success: Гильдия переименование успешно. 
+Tank.Request.RenameConsortiaName.Fail1: изменение Гильдия имя не удалось. 
+Tank.Request.RenameConsortiaName.Fail2: изменение Гильдия имя не удалось. 
+ItemRefineryHandler.ItemNotEnough: недостаточное количество пунктов. 
+ItemRefineryHandler.IsBinds: После очистки оборудования и их роль будет обязательным, следует ли продолжать. 
+ItemRefineryHandler.NoGold: нехватка золота. 
+ItemRefineryHandler.Success: изысканный успешно, чтобы получить {0}. 
+ItemRefineryHandler.Failed: не изысканный. 
+ItemTrendHandle.Success: Основные средства, как правило, успешных изменений. 
+ItemTrendHandle.Fail: склонны приписывать изменения в поломке прибора. 
+ItemStrengthenHandler.StoneMatch: Давайте пнуть повышение штрафа. 
+ItemRefineryHandler.NoFormula: нет формула для этого завода. 
+ItemTrendHandle.Fail: склонны приписывать изменения в поломке прибора. 
+UserBuyItemHandler.NoEnoughItem: Продукт является неполной. 
+ItemInlayHandle.NoPlace: Эта позиция не. 
+ItemInlayHandle.Success: {0} успешно монтировать. 
+
+friendnotinthesameserver.Fail: Друзья не на одном канале. 
+GPDanUser.Success:  вы получаете {0} опыт. 
+GPDanUser.Fail: Опыт Дэна с отказом {0}. 
+ConsortiaUpGradeHandler.Notice: Поздравляем Гильдия <{0}> Гильдия успешно повышен до уровня {1}. 
+ConsortiaShopUpGradeHandler.Notice: Поздравляем Гильдия <{0}> Магазин успешно повышен до уровня {1}. 
+ConsortiaSmithUpGradeHandler.Notice: Поздравляем Гильдия <{0}> ковка успешный уровень обновления {1}. 
+AddTempInventory.Notice: Поздравляем игроков [{0}] в борьбе, чтобы получить {1}. 
+AddTempInventory.Notice1: [{0}] в борьбе, чтобы получить {1}. 
+ConsortiaBussiness.UpdateConsortiaChairman.Msg3: Этот игрок был остановлен запечатаны, непередаваемое. 
+
+# 2009/11/16 
+GameUserDailyAward.Success: Получить 60 минут опыта х2 карты. 
+GameUserDailyAward.Fail: не получают в день. 
+
+GameUserDailyAward.Fail1: дневной лимит на получение, как только вы получили предыдущая. 
+friendnotinthesameserver.Sameroom: друзья в той же комнате. 
+GameUserDailyAward.Fail1: дневной лимит на получение, как только вы получили предыдущая. 
+
+# 2009/11/19 
+ItemFusionHandler.Notice: Приветствия [{0}] Успешное мощность обучение {1}. 
+
+
+# 2009/11/16 
+GameUserDailyAward.Success: успешно получил ежедневно. 
+GameUserDailyAward.Fail: не получают в день. 
+
+GameUserDailyAward.Fail1: дневной лимит на получение, как только вы получили предыдущая. 
+friendnotinthesameserver.Sameroom: друзья в той же комнате. 
+GameUserDailyAward.Fail1: дневной лимит на получение, как только вы получили предыдущая. 
+
+# 2009/12/05 
+UserBuyItemHandler.NoBuyItem: Сюй блокировки не хватает. 
+UserBuyItemHandler.NoGold:  нехватка капитала. 
+UserBuyItemHandler.NoOffer: недостаточности государственных. 
+UserBuyItemHandler.GiftToken: Сюй блокировки не хватает. 
+UserBuyItemHandler.Money: отсутствие Сюй. 
+UserBuyItemHandler.Failed: отсутствие денег, чтобы купить не 
+friendnotinthesameserver.Room: Другие игроки в комнате. 
+
+# 2009/12/07 
+Game.Server.Quests.FinishQuest.RewardGiftToken: {0} Сюй наука
+Game.Server.Quests.FinishQuest.Medal: {0} Медаль 
+
+# 2010/01/14 
+ConsortiaBussiness.DeleteConsortiaUser.Msg5: достигает максимального дневной лимит камня. 
+UpdatePasswordInfo.Success: настроить защищенный паролем успеха. 
+UpdatePasswordInfo.Fail: настроить защиту паролем не удается. 
+ItemStrengthenHandler.FullStrengthLevel: Это устройство имеет самый высокий уровень. 
+CreateRoomAction.MaxRoom: Номера полный, пожалуйста, присоединяйтесь другие комнаты. 
+
+# 2010/02/09 
+DropInventory.DropItem.Msg1: Поздравляем игроков в бою {0} {1} чтобы получить. 
+DropInventory.ItemBox.Msg1: Поздравляем игроков [{0}] {1} открытый доступ [{2}]. 
+
+
+# 2010/01/10 
+MarryRoom.Close: зал закрыт. 
+
+# 2010/02/24 
+Game.Server.GameObjects.AnswerHandler.RewardGB: Вы получаете: {0} опыт 
+Game.Server.Quests.FinishQuest.RewardGold: {0} Золото 
+Game.Server.Quests.FinishQuest.RewardOffer: {0} Заслуга 
+Game.Server.Quests.FinishQuest.RewardRiches: {0} богатство 
+
+Game.Server.GameObjects.AnswerHandler.RewardGet: Вы получаете: 
+Game.Server.GameObjects.AnswerHandler.RewardPro: {0} x {1} 
+Game.Server.GameObjects.AnswerHandler.RewardGold: {0} Золото 
+Game.Server.GameObjects.AnswerHandler.RewardPoint: {0} точечные купоны 
+Game.Server.GameObjects.AnswerHandler.RewardGiftToken: {0} Подарок 
+ChargeToUser.Content: Уважаемые игроки: Есть ли у вас уже есть учетная запись {0} точка пополнения купоны. 
+ChargeToUser.Title: Вы успешно пополнить. 
+ASSInfoSetHandle.Title: реальные имя проверки наград. 
+ASSInfoSetHandle.Content: реальные имя проверки наград. 
+
+
+# 2010/03/22 
+GameInviteHandler.LessThanLevelLimit: Игрок не отвечает уровня класса {0} не может пригласить. 
+RoomSetupChangeAction.GradeNotAchieved: Вы еще не достигла уровня класса {0}, не может делать копии. 
+
+DismountGem.success: Сара успешно. 
+DismountGem.Fail: Sarah не может быть удален. 
+GameServerScript.AI.Messions.CHM1273.msg1: буфера капитан 
+GameServerScript.AI.Messions.CHM1273.msg2: Вы решились ворваться в мой сайт, готовы пойти мертвым! 
+GameServerScript.AI.Messions.CHM1276.msg1: Король Boo ДЖЕМ 
+GameServerScript.AI.Messions.CHM1276.msg2: все вы, непритязательные мирных жителей, смелые уверенность в моем дворце! 
+GameServerScript.AI.Messions.CHM1276.msg3: <span class='red'> Вы злить меня, я не прощаю тебя! </ Span> 
+GameServerScript.AI.Messions.CHM1277.msg1: ах ~ ~ моя голова ... боль ... Почему я здесь! ? 
+GameServerScript.AI.Messions.CHM1277.msg2: <span class='red'> бом VUA Матиас </ span> это? Сейчас помню .... 
+GameServerScript.AI.Messions.CHM1277.msg3: Спасибо за ваш благородный воин, я <span class='red'> Бу Goo VUA Nierluao </ span>. 
+GameServerScript.AI.Messions.CHM1277.msg4: Без тебя, я никогда не мог избежать контроля Матиас. 
+GameServerScript.AI.Messions.CHM1277.msg5: Несколько лет назад, бомба была земельные буферы для водной войны, в бою,. 
+GameServerScript.AI.Messions.CHM1277.msg6: Я не заинтересован в King Mathias бомб трюков 
+GameServerScript.AI.Messions.CHM1277.msg7: Он был проклят с <span class='red'> психические кандалы </ span> kiểm soát. 
+GameServerScript.AI.Messions.CHM1277.msg8: В единственном матче, его проклятие разрушается, чтобы восстановить свою свободу! , 
+GameServerScript.AI.Messions.CHM1277.msg9: время уходит, он ушел, как только воспринимается проклятие скоро придет 
+GameServerScript.AI.Messions.CHM1277.msg10: Матиас очень сильные, слабые, я не мог сопротивляться долго ... ... 
+GameServerScript.AI.Messions.CHM1277.msg11: Прежде, чем он приехал, чтобы спросить вас, чтобы выбраться отсюда! 
+GameServerScript.AI.Messions.CHM1277.msg12: Bomb vua 
+GameServerScript.AI.Messions.CHM1277.msg13: Nierluao не думаю, что вы могли бы действительно разорвать оковы моего духа! 
+GameServerScript.AI.Messions.CHM1277.msg14: как это ... ... это действительно с некоторой внешней силы. 
+GameServerScript.AI.Messions.CHM1277.msg15: Я дам тебе последний шанс, пошли меня, или, 
+GameServerScript.AI.Messions.CHM1277.msg16: навсегда изгнан в бесконечной боли в пустоте? 
+GameServerScript.AI.Messions.CHM1277.msg17: Bạn Go! ! 
+GameServerScript.AI.Messions.CHM1277.msg18: Давай! Матиас! !
+GameServerScript.AI.Messions.CHM1277.msg19: Я не позволю вам вред моих людей и хороших людей. 
+GameServerScript.AI.Messions.CHM1277.msg20: Ванг, пух. 
+GameServerScript.AI.Messions.CHM1277.msg21: Это ваш ответ? 
+GameServerScript.AI.Messions.CHM1277.msg22: такой упрямый, вы не имеют никакой ценности, и потерял его! 
+GameServerScript.AI.Messions.CHM1277.msg23: <span class='red'> дополнительная мерное Луу Vong! </ Span> 
+GameServerScript.AI.Messions.CHM1277.msg24: воин! Запомнить меня: <span class='red'> источник огня, чтобы разогнать гнев замороженные для использования. </ Span> 
+GameServerScript.AI.Messions.CHM1277.msg25: воин! Вы снова спас меня, он спас королевство и мой народ, а затем 
+GameServerScript.AI.Messions.CHM1277.msg26: чем слова не могут выразить свою благодарность вам, примите мои искренние пожелания!
+GameServerScript.AI.Messions.CHM1278.msg1: Thuc бум Ван 
+GameServerScript.AI.Messions.CHM1173.msg1: буфера капитан 
+GameServerScript.AI.Messions.CHM1173.msg2: Вы решились ворваться в мой сайт, готовы пойти мертвым! 
+GameServerScript.AI.Messions.CHM1176.msg1: Король Boo ДЖЕМ 
+GameServerScript.AI.Messions.CHM1176.msg2: все вы, непритязательные мирных жителей, смелые уверенность в моем дворце! 
+GameServerScript.AI.Messions.CHM1176.msg3: <span class='red'> Вы злить меня, я не прощаю тебя! </ Span> 
+GameServerScript.AI.Messions.CHM1177.msg1: Bomb vua 
+GameServerScript.AI.Messions.CHM1177.msg2: Вы знаете, слишком много, я не могу позволить вам продолжать жить!
+GameServerScript.AI.Messions.CHM1178.msg1: Thuc бум Ван 
+GameServerScript.AI.Messions.CHM1073.msg1: буфера капитан 
+GameServerScript.AI.Messions.CHM1073.msg2: Вы решились ворваться в мой сайт, готовы пойти мертвым! 
+GameServerScript.AI.Messions.CHM1076.msg1: Король Boo ДЖЕМ 
+GameServerScript.AI.Messions.CHM1076.msg2: все вы, непритязательные мирных жителей, смелые уверенность в моем дворце! 
+GameServerScript.AI.Messions.CHM1076.msg3: <span class='red'> Вы зли меня, то, не прощу! </ Span> 
+GameServerScript.AI.Messions.CHM1077.msg1: Bomb vua 
+GameServerScript.AI.Messions.CHM1077.msg2:Вы уже знаете, слишком много, я не могу позволить тебе жить! 
+GameServerScript.AI.Messions.CHM1078.msg1: Ăn boom nà
+GameServerScript.AI.Messions.CHM1373.msg1: буфера капитан 
+GameServerScript.AI.Messions.CHM1373.msg2: Ты смеешь вторгнуться на нашу территорию, готовы умереть!
+GameServerScript.AI.Messions.CHM1376.msg1: Король Boo ДЖЕМ 
+GameServerScript.AI.Messions.CHM1376.msg2: все вы, непритязательные мирных жителей, смелые уверенность в моем дворце! 
+GameServerScript.AI.Messions.CHM1376.msg3: <span class='red'> Вы злить меня, я не прощаю тебя! </ Span> 
+GameServerScript.AI.Messions.CHM1377.msg1: Bomb vua 
+GameServerScript.AI.Messions.CHM1377.msg2: ах ~ ~ больно ... вы ... Почему я тебе больно здесь! ? 
+GameServerScript.AI.Messions.CHM1377.msg3: <span class='red'> бом VUA Матиас </ span> это? Сейчас помню .... 
+GameServerScript.AI.Messions.CHM1377.msg4: Спасибо за ваш благородный воин, я <span class='red'> Бу Goo VUA Nierluao </ span>. 
+GameServerScript.AI.Messions.CHM1377.msg5: Без тебя, я никогда не мог избежать контроля Матиас. 
+GameServerScript.AI.Messions.CHM1377.msg6: Несколько лет назад, бомба была земельные буферы для водной войны, в бою, 
+GameServerScript.AI.Messions.CHM1377.msg7: Я не заинтересован в King Mathias бомб трюков 
+GameServerScript.AI.Messions.CHM1377.msg8: Он был проклят с <span class='red'> психические кандалы </ span> kiểm soát. 
+GameServerScript.AI.Messions.CHM1377.msg9: В единственном матче, его проклятие разрушается, чтобы восстановить свою свободу! 
+GameServerScript.AI.Messions.CHM1377.msg10: время уходит, он ушел, как только воспринимается проклятие скоро придет 
+GameServerScript.AI.Messions.CHM1377.msg11: Матиас очень сильные, слабые, я не мог сопротивляться долго ... ... 
+GameServerScript.AI.Messions.CHM1377.msg12: Прежде, чем он приехал, чтобы спросить вас, чтобы выбраться отсюда! 
+GameServerScript.AI.Messions.CHM1377.msg13: Nierluao не думаю, что вы могли бы действительно разорвать оковы моего духа! 
+GameServerScript.AI.Messions.CHM1377.msg14: как это ... ... это действительно с некоторой внешней силы. 
+GameServerScript.AI.Messions.CHM1377.msg15: Я дам тебе последний шанс, пошли меня, или, 
+GameServerScript.AI.Messions.CHM1377.msg16: навсегда изгнан в бесконечной боли в пустоте? 
+GameServerScript.AI.Messions.CHM1377.msg17: Bạn Go! ! 
+GameServerScript.AI.Messions.CHM1377.msg18: Давай! Матиас! !
+GameServerScript.AI.Messions.CHM1377.msg19: Я не позволю вам вред моих людей и хороших людей. 
+GameServerScript.AI.Messions.CHM1377.msg20: Ванг, пух. 
+GameServerScript.AI.Messions.CHM1377.msg21: Это ваш ответ? 
+GameServerScript.AI.Messions.CHM1377.msg22: такой упрямый, вы не имеют никакой ценности, и потерял его! 
+GameServerScript.AI.Messions.CHM1377.msg23: <span class='red'> дополнительная мерное Луу Vong! </ Span> 
+GameServerScript.AI.Messions.CHM1377.msg24: воин! Запомнить меня: <span class='red'> источник огня, чтобы разогнать гнев замороженные для использования. </ Span> 
+GameServerScript.AI.Messions.CHM1377.msg25: воин! Вы снова спас меня, он спас королевство и мой народ, а затем 
+GameServerScript.AI.Messions.CHM1377.msg26: чем слова не могут выразить свою благодарность вам, примите мои искренние пожелания!
+GameServerScript.AI.Messions.CHM1378.msg1: Thuc бум Ван 
+
+# 2010/04/19 
+ItemFusionHandler.ItemValidDate: детали имеют срок годности меньше, чем остальные. 
+ItemFusionHandler.Itemvalid: не является допустимым запись. 
+
+ItemFusionHandler.full: рюкзак полон, элемент отправляется в почтовый ящик. 
+ItemFusionHandler.mail: статьи таять успех "," успешные элементы плавления. 
+MailGetAttachHandler.error: Электронная почта была удалена, извлечение вложений без успеха!. 
+UserChangeItemPlaceHandler.full: Сумки были заполнены! 
+EnterGameAction.error: Номера пароль. 
+EnterRoomAction.noroom: нет подходящим местом, повторите попытку позже!. 
+EnterRoomAction.noexist: номер не существует!. 
+EnterRoomAction.start: игровая комната начал!. 
+EnterRoomAction.full: Размер номера соответствует! . 
+EnterRoomAction.level: Ваш уровень качества, и не согласуются с требованиями комнате!. 
+EnterRoomAction.passworderror: Номера пароль. 
+StartGameAction.noBattleServe: боя сервер недоступен!. 
+StartMessage.Consortia: Удачное сочетание! Ваша команда начинает военные союзы. 
+StartMessage.free: Удачное сочетание! Ваша команда начинает войну свободы. 
+
+GameServerScript.AI.Messions.DCNM2102.msg1: коробка моя, дети мои, пока я вижу это моя! 
+GameServerScript.AI.Messions.DCSM2002.msg1: коробка моя, дети мои, пока я вижу это моя! 
+GameServerScript.AI.NPC.HardCaptainAi.msg1: вы поцелуй смерти! 
+GameServerScript.AI.NPC.HardCaptainAi.msg2: Вы поймите меня с ума! 
+GameServerScript.AI.NPC.HardCaptainAi.msg3: Непобедимый землетрясение ... ... <br/> шок шок ... ... ... ... 
+GameServerScript.AI.NPC.HardCaptainAi.msg4: попал в стекло.
+GameServerScript.AI.NPC.HardCaptainAi.msg5: более детальный вид Кота ваши критерии
+GameServerScript.AI.NPC.HardCaptainAi.msg6: отправить тебя обратно домой! 
+GameServerScript.AI.NPC.HardCaptainAi.msg7: одна иллюзия, вы можете бить меня? 
+GameServerScript.AI.NPC.HardCaptainAi.msg8: команда! <br/> Защищенный! ! 
+GameServerScript.AI.NPC.HardCaptainAi.msg9: Буфер Бу! ! <br/> дать мне некоторую помощь! 
+GameServerScript.AI.NPC.HardCaptainAi.msg10: Для вашей победы, <br/> мой огонь! 
+GameServerScript.AI.NPC.HardCaptainAi.msg11: Я взял тебя на полшага вперед еще раз, чтобы убить вас! 
+GameServerScript.AI.NPC.HardCaptainAi.msg12: Высокая! <br/> очень высока! 
+GameServerScript.AI.NPC.HardCaptainAi.msg13: супер-смертник! ! 
+GameServerScript.AI.NPC.HardCaptainAi.msg14: отправить тебя обратно домой! 
+GameServerScript.AI.NPC.HardCaptainAi.msg15: одна иллюзия, вы можете бить меня? 
+GameServerScript.AI.NPC.HardCaptainAi.msg16: Ой! Боль ... 
+GameServerScript.AI.NPC.HardCaptainAi.msg17: Я тоже жил в начале ...
+GameServerScript.AI.NPC.HardCaptainAi.msg18: Да здравствует король! ! <br/> ах ...... 
+GameServerScript.AI.NPC.HardKingFirst.msg1: себе землетрясения! ! <br/> Ай вы, пожалуйста, помогите 
+GameServerScript.AI.NPC.HardKingFirst.msg2: шокировать свое оружие! 
+GameServerScript.AI.NPC.HardKingFirst.msg3: Вы можете стоять, чтобы увидеть некоторые! !
+GameServerScript.AI.NPC.HardKingFirst.msg4: вы знаете, что трещины выстрел! 
+GameServerScript.AI.NPC.HardKingFirst.msg5: дать вам мяч - у вас есть, чтобы выбрать Да 
+GameServerScript.AI.NPC.HardKingFirst.msg6: Ваше незнание нижней группы людей 
+GameServerScript.AI.NPC.HardKingFirst.msg7: й ой Джон Джон Джон Джон <br/> ~ ~ ~
+GameServerScript.AI.NPC.HardKingFirst.msg8: Аллилуйя <br/> Для ~ ~ ~
+GameServerScript.AI.NPC.HardKingFirst.msg9: Да да да, <br/> ах хороший комфорт! 
+GameServerScript.AI.NPC.HardKingFirst.msg10: Доминирование! ! 
+GameServerScript.AI.NPC.HardKingFirst.msg11: Матиас Не контролировать меня! 
+GameServerScript.AI.NPC.HardKingFirst.msg12: Это вызов моей судьбы! 
+GameServerScript.AI.NPC.HardKingFirst.msg13: Нет! ! Это не моя воля ... 
+GameServerScript.AI.NPC.HardKingFirst.msg14: О ~ Почему вы нападать на меня? <br/> Что я делаю?
+GameServerScript.AI.NPC.HardKingFirst.msg15: О - это боль Почему я должен бороться!? Я должен бороться ...
+GameServerScript.AI.NPC.HardKingFirst.msg16: Прощание с моей стране ... моего народа ... Я всегда проклинал царя Матиас бомба вы!
+GameServerScript.AI.NPC.HardKingLast.msg1: вся пыль вы, я хочу, чтобы вы знали, какой ужас и отчаяние!
+GameServerScript.AI.NPC.HardKingLast.msg2: вы мне щекотать вас? 
+GameServerScript.AI.NPC.HardKingLast.msg3: Я не могу просто быть потрачены впустую, как вы избили его! 
+GameServerScript.AI.NPC.HardKingLast.msg4: О, вы играете хорошо мне больно, <br/> ха-ха-ха-ха! 
+GameServerScript.AI.NPC.HardKingLast.msg5: Тут тут, так что атака! 
+GameServerScript.AI.NPC.HardKingLast.msg6: Я вижу вашу честь! 
+GameServerScript.AI.NPC.HardKingLast.msg7: дже ах, <br/> их сильный аромат бомба!
+GameServerScript.AI.NPC.HardKingLast.msg8: Я использовал весь фокус в том, чтобы заставить вас! 
+GameServerScript.AI.NPC.HardKingLast.msg9: Вы до смерти? 
+GameServerScript.AI.NPC.HardKingLast.msg10: дополнительная мерное Луу Vong! 
+GameServerScript.AI.NPC.HardKingLast.msg11: Разрушение это ваш единственный назначения!
+GameServerScript.AI.NPC.HardKingLast.msg12: это слишком просто, чтобы получить травму! 
+GameServerScript.AI.NPC.HardKingLast.msg13: О - вы играете хорошо мне больно! <br/> ah ха-ха-ха-ха! 
+GameServerScript.AI.NPC.HardKingLast.msg14: вы просто должны эту способность? ! 
+GameServerScript.AI.NPC.HardKingLast.msg15: Да - мало значит
+GameServerScript.AI.NPC.HardKingLast.msg16: Как вы думаете, вы выиграли? Материя еще далек от завершения! Я вернусь! 
+GameServerScript.AI.NPC.HardKingLast.msg17: Я превратился в пыль под мощную силу его - <span lớp ='red'> Армагеддон! </ Span> 
+GameServerScript.AI.NPC.HardKingSecond.msg1: себе землетрясения! ! <br/> Ай вы, пожалуйста, помогите 
+GameServerScript.AI.NPC.HardKingSecond.msg2: шокировать свое оружие! Oh 
+GameServerScript.AI.NPC.HardKingSecond.msg3: Вы можете стоять, чтобы увидеть некоторые! !
+GameServerScript.AI.NPC.HardKingSecond.msg4: вы знаете, что трещины выстрел! 
+GameServerScript.AI.NPC.HardKingSecond.msg5: дать вам мяч - у вас есть, чтобы выбрать Да 
+GameServerScript.AI.NPC.HardKingSecond.msg6: Ваше незнание нижней группы людей 
+GameServerScript.AI.NPC.HardKingSecond.msg7: й ой Джон Джон Джон Джон <br/> ~ ~ ~ 
+GameServerScript.AI.NPC.HardKingSecond.msg8: Аллилуйя <br/> Для ~ ~ ~
+GameServerScript.AI.NPC.HardKingSecond.msg9: Да да да, <br/> ах хороший комфорт! 
+GameServerScript.AI.NPC.HardKingSecond.msg10: Доминирование! ! 
+GameServerScript.AI.NPC.HardKingSecond.msg11: Это аромат 
+GameServerScript.AI.NPC.HardKingSecond.msg12: позволяет вам успокоиться
+GameServerScript.AI.NPC.HardKingSecond.msg13: Ты злишься 
+GameServerScript.AI.NPC.HardKingSecond.msg14: Боже, дай мне силы!
+GameServerScript.AI.NPC.HardKingSecond.msg15: это отчаянно, глядя на моей стене кристаллов защиты!
+GameServerScript.AI.NPC.HardKingSecond.msg16: Матиас Не контролировать меня! 
+GameServerScript.AI.NPC.HardKingSecond.msg17: Это вызов моей судьбы!
+GameServerScript.AI.NPC.HardKingSecond.msg18: Нет! ! Это не моя воля ... 
+GameServerScript.AI.NPC.HardKingSecond.msg19: О ~ Почему вы нападать на меня? <br/> Что я делаю?
+GameServerScript.AI.NPC.HardKingSecond.msg20: О - это боль Почему я должен бороться!? Я должен бороться ...
+GameServerScript.AI.NPC.HardKingSecond.msg21: Я, наконец, избавился от головной боли Матиас управления ах!
+GameServerScript.AI.NPC.HardKingSecond.msg22: маленькие, они научили меня хорошим уроком враг! 
+GameServerScript.AI.NPC.HardKingZhen.msg1: посмотрите на мои навыки!
+GameServerScript.AI.NPC.HardKingZhen.msg2: Это крутой трюк он, <br/> не хотят учиться? 
+GameServerScript.AI.NPC.HardKingZhen.msg3: пропустил его! ! ! <br/> скромный пыль!
+GameServerScript.AI.NPC.HardKingZhen.msg4: Вы будете платить за это! 
+GameServerScript.AI.NPC.HardKingZhen.msg5: вы мне щекотать вас? 
+GameServerScript.AI.NPC.HardKingZhen.msg6: Я не могу просто быть потрачены впустую, как вы избили его! 
+GameServerScript.AI.NPC.HardKingZhen.msg7: О, вы играете хорошо мне больно, <br/> ха-ха-ха-ха! 
+GameServerScript.AI.NPC.HardKingZhen.msg8: Тут тут, так что атака! 
+GameServerScript.AI.NPC.HardKingZhen.msg9: Я вижу вашу честь! 
+GameServerScript.AI.NPC.HardKingZhen.msg10: дже ах, <br/> их сильный аромат бомба!
+GameServerScript.AI.NPC.HardKingZhen.msg11: Я использовал весь фокус в том, чтобы заставить вас! 
+GameServerScript.AI.NPC.HardKingZhen.msg12: Вы до смерти? 
+GameServerScript.AI.NPC.HardKingZhen.msg13: дополнительная мерное Луу Vong! 
+GameServerScript.AI.NPC.HardKingZhen.msg14: Разрушение это ваш единственный назначения!
+GameServerScript.AI.NPC.HardKingZhen.msg15: это слишком просто, чтобы получить травму! 
+GameServerScript.AI.NPC.HardKingZhen.msg16: О - вы играете хорошо мне больно! <br/> ah ха-ха-ха-ха! 
+GameServerScript.AI.NPC.HardKingZhen.msg17: вы просто должны эту способность? ! 
+GameServerScript.AI.NPC.HardKingZhen.msg18: Да - мало значит
+GameServerScript.AI.NPC.HardKingZhen.msg19: Даже если я умру, я также будет сопровождаться бесконечным желанием этот мир навсегда! 
+GameServerScript.AI.NPC.HardKingZhen.msg20: Ха-ха, я имел полную мощность! 
+GameServerScript.AI.NPC.NormalCaptainAi.msg1: вы поцелуй смерти! 
+GameServerScript.AI.NPC.NormalCaptainAi.msg2: Вы поймите меня с ума! 
+GameServerScript.AI.NPC.NormalCaptainAi.msg3: Непобедимый землетрясение ... ... <br/> шок шок ... ... ... ... 
+GameServerScript.AI.NPC.NormalCaptainAi.msg4: попал в стекло.
+GameServerScript.AI.NPC.NormalCaptainAi.msg5: более детальный вид Кота ваши критерии
+GameServerScript.AI.NPC.NormalCaptainAi.msg6: отправить тебя обратно домой! 
+GameServerScript.AI.NPC.NormalCaptainAi.msg7: одна иллюзия, вы можете бить меня? 
+GameServerScript.AI.NPC.NormalCaptainAi.msg8: команда! <br/> Защищенный! ! 
+GameServerScript.AI.NPC.NormalCaptainAi.msg9: Буфер Бу! ! <br/> дать мне некоторую помощь! 
+GameServerScript.AI.NPC.NormalCaptainAi.msg10: Для вашей победы, <br/> мой огонь! 
+GameServerScript.AI.NPC.NormalCaptainAi.msg11: Я взял тебя на полшага вперед еще раз, чтобы убить вас! 
+GameServerScript.AI.NPC.NormalCaptainAi.msg12: Высокая! <br/> очень высока! 
+GameServerScript.AI.NPC.NormalCaptainAi.msg13: супер-смертник! ! 
+GameServerScript.AI.NPC.NormalCaptainAi.msg14: отправить тебя обратно домой! 
+GameServerScript.AI.NPC.NormalCaptainAi.msg15: одна иллюзия, вы можете бить меня? 
+GameServerScript.AI.NPC.NormalCaptainAi.msg16: Ой! Боль ... 
+GameServerScript.AI.NPC.NormalCaptainAi.msg17: Я тоже жил в начале ...
+GameServerScript.AI.NPC.NormalCaptainAi.msg18: Да здравствует король! ! <br/> ах ...... 
+GameServerScript.AI.NPC.NormalKingFirst.msg1: себе землетрясения! ! <br/> Ай вы, пожалуйста, помогите 
+GameServerScript.AI.NPC.NormalKingFirst.msg2: шокировать свое оружие! 
+GameServerScript.AI.NPC.NormalKingFirst.msg3: Вы можете стоять, чтобы увидеть некоторые! !
+GameServerScript.AI.NPC.NormalKingFirst.msg4: вы знаете, что трещины выстрел! 
+GameServerScript.AI.NPC.NormalKingFirst.msg5: дать вам мяч - у вас есть, чтобы выбрать Да 
+GameServerScript.AI.NPC.NormalKingFirst.msg6: Ваше незнание нижней группы людей 
+GameServerScript.AI.NPC.NormalKingFirst.msg7: й ой Джон Джон Джон Джон <br/> ~ ~ ~ 
+GameServerScript.AI.NPC.NormalKingFirst.msg8: Аллилуйя <br/> Для ~ ~ ~
+GameServerScript.AI.NPC.NormalKingFirst.msg9: Да да да, <br/> ах хороший комфорт! 
+GameServerScript.AI.NPC.NormalKingFirst.msg10: Доминирование! ! 
+GameServerScript.AI.NPC.NormalKingFirst.msg11: Матиас Не контролировать меня! 
+GameServerScript.AI.NPC.NormalKingFirst.msg12: Это вызов моей судьбы! 
+GameServerScript.AI.NPC.NormalKingFirst.msg13: Нет! ! Это не моя воля ... 
+GameServerScript.AI.NPC.NormalKingFirst.msg14: О ~ Почему вы нападать на меня? <br/> Что я делаю?
+GameServerScript.AI.NPC.NormalKingFirst.msg15: О - это боль Почему я должен бороться!? Я должен бороться ...
+GameServerScript.AI.NPC.NormalKingFirst.msg16: Прощание с моей стране ... моего народа ... Я всегда проклинал царя Матиас бомба вы!
+GameServerScript.AI.NPC.NormalKingLast.msg1: посмотрите на мои навыки!
+GameServerScript.AI.NPC.NormalKingLast.msg2: Это крутой трюк он, <br/> не хотят учиться? 
+GameServerScript.AI.NPC.NormalKingLast.msg3: пропустил его! ! ! <br/> скромный пыль!
+GameServerScript.AI.NPC.NormalKingLast.msg4: Вы будете платить за это! 
+GameServerScript.AI.NPC.NormalKingLast.msg5: вы мне щекотать вас? 
+GameServerScript.AI.NPC.NormalKingLast.msg6: Я не могу просто быть потрачены впустую, как вы избили его! 
+GameServerScript.AI.NPC.NormalKingLast.msg7: О, вы играете хорошо мне больно, <br/> ха-ха-ха-ха! 
+GameServerScript.AI.NPC.NormalKingLast.msg8: Тут тут, так что атака! 
+GameServerScript.AI.NPC.NormalKingLast.msg9: Я вижу вашу честь! 
+GameServerScript.AI.NPC.NormalKingLast.msg10: дже ах, <br/> их сильный аромат бомба!
+GameServerScript.AI.NPC.NormalKingLast.msg11: Я использовал весь фокус в том, чтобы заставить вас! 
+GameServerScript.AI.NPC.NormalKingLast.msg12: Вы до смерти? 
+GameServerScript.AI.NPC.NormalKingLast.msg13: дополнительная мерное Луу Vong! 
+GameServerScript.AI.NPC.NormalKingLast.msg14: Разрушение это ваш единственный назначения!
+GameServerScript.AI.NPC.NormalKingLast.msg15: это слишком просто, чтобы получить травму! 
+GameServerScript.AI.NPC.NormalKingLast.msg16: О - вы играете хорошо мне больно! <br/> ah ха-ха-ха-ха! 
+GameServerScript.AI.NPC.NormalKingLast.msg17: вы просто должны эту способность? ! 
+GameServerScript.AI.NPC.NormalKingLast.msg18: Да - мало значит
+GameServerScript.AI.NPC.NormalKingLast.msg19: Как вы думаете, вы выиграли? Материя еще далек от завершения! Я вернусь! 
+GameServerScript.AI.NPC.NormalKingSecond.msg1: себе землетрясения! ! <br/> Ай вы, пожалуйста, помогите 
+GameServerScript.AI.NPC.NormalKingSecond.msg2: шокировать свое оружие! 
+GameServerScript.AI.NPC.NormalKingSecond.msg3: Вы можете стоять, чтобы увидеть некоторые! !Oh 
+GameServerScript.AI.NPC.NormalKingSecond.msg4: вы знаете, что трещины выстрел! 
+GameServerScript.AI.NPC.NormalKingSecond.msg5: дать вам мяч - у вас есть, чтобы выбрать Да 
+GameServerScript.AI.NPC.NormalKingSecond.msg6: Ваше незнание нижней группы людей 
+GameServerScript.AI.NPC.NormalKingSecond.msg7: й ой Джон Джон Джон Джон <br/> ~ ~ ~ 
+GameServerScript.AI.NPC.NormalKingSecond.msg8: Аллилуйя <br/> Для ~ ~ ~
+GameServerScript.AI.NPC.NormalKingSecond.msg9: Да да да, <br/> ах хороший комфорт! 
+GameServerScript.AI.NPC.NormalKingSecond.msg10: Доминирование! ! 
+GameServerScript.AI.NPC.NormalKingSecond.msg11: Это аромат 
+GameServerScript.AI.NPC.NormalKingSecond.msg12: Oh, bạn nhìn mát 
+GameServerScript.AI.NPC.NormalKingSecond.msg13: Ты злишься 
+GameServerScript.AI.NPC.NormalKingSecond.msg14: Боже, дай мне силы!
+GameServerScript.AI.NPC.NormalKingSecond.msg15: это отчаянно, глядя на моей стене кристаллов защиты!
+GameServerScript.AI.NPC.NormalKingSecond.msg16: Матиас Не контролировать меня! 
+GameServerScript.AI.NPC.NormalKingSecond.msg17: Это вызов моей судьбы! 
+GameServerScript.AI.NPC.NormalKingSecond.msg18: Нет! ! Это не моя воля ... 
+GameServerScript.AI.NPC.NormalKingSecond.msg19: О ~ Почему вы нападать на меня? <br/> Что я делаю?
+GameServerScript.AI.NPC.NormalKingSecond.msg20: О - это боль Почему я должен бороться!? Я должен бороться ...
+GameServerScript.AI.NPC.NormalKingSecond.msg21: Прощание с моей стране ... моего народа ... Я всегда проклинал царя Матиас бомба вы!
+GameServerScript.AI.NPC.NormalKingSecond.msg22: маленькие, они научили меня хорошим уроком враг! 
+GameServerScript.AI.NPC.NormalKingZhen.msg1: посмотрите на мои навыки!
+GameServerScript.AI.NPC.NormalKingZhen.msg2: Это крутой трюк он, <br/> не хотят учиться? 
+GameServerScript.AI.NPC.NormalKingZhen.msg3: пропустил его! ! ! <br/> скромный пыль!
+GameServerScript.AI.NPC.NormalKingZhen.msg4: Вы будете платить за это! 
+GameServerScript.AI.NPC.NormalKingZhen.msg5: вы мне щекотать вас? 
+GameServerScript.AI.NPC.NormalKingZhen.msg6: Я не могу просто быть потрачены впустую, как вы избили его! 
+GameServerScript.AI.NPC.NormalKingZhen.msg7: О, вы играете хорошо мне больно, <br/> ха-ха-ха-ха! 
+GameServerScript.AI.NPC.NormalKingZhen.msg8: Тут тут, так что атака! 
+GameServerScript.AI.NPC.NormalKingZhen.msg9: Я вижу вашу честь! 
+GameServerScript.AI.NPC.NormalKingZhen.msg10: дже ах, <br/> их сильный аромат бомба!
+GameServerScript.AI.NPC.NormalKingZhen.msg11: Я использовал весь фокус в том, чтобы заставить вас! 
+GameServerScript.AI.NPC.NormalKingZhen.msg12: Вы до смерти? 
+GameServerScript.AI.NPC.NormalKingZhen.msg13: дополнительная мерное Луу Vong! 
+GameServerScript.AI.NPC.NormalKingZhen.msg14: Разрушение это ваш единственный назначения!
+GameServerScript.AI.NPC.NormalKingZhen.msg15: это слишком просто, чтобы получить травму! 
+GameServerScript.AI.NPC.NormalKingZhen.msg16: О - вы играете хорошо мне больно! <br/> ah ха-ха-ха-ха! 
+GameServerScript.AI.NPC.NormalKingZhen.msg17: вы просто должны эту способность? ! 
+GameServerScript.AI.NPC.NormalKingZhen.msg18: Да - мало значит
+GameServerScript.AI.NPC.NormalKingZhen.msg19: Даже если я умру, я также будет сопровождаться бесконечным желанием этот мир навсегда! 
+GameServerScript.AI.NPC.NormalKingZhen.msg20: Ха-ха, я имел полную мощность! 
+GameServerScript.AI.NPC.NormalQueenAntAi.msg1: вы поцелуй смерти! 
+GameServerScript.AI.NPC.NormalQueenAntAi.msg2: Вы поймите меня с ума! 
+GameServerScript.AI.NPC.NormalQueenAntAi.msg3: Непобедимый землетрясение ... ... <br/> шок шок ... ... ... ... 
+GameServerScript.AI.NPC.NormalQueenAntAi.msg4: сфотографироваться с большой точностью! 
+GameServerScript.AI.NPC.NormalQueenAntAi.msg5: Вы знаете мое плохое!
+GameServerScript.AI.NPC.NormalQueenAntAi.msg6: одна иллюзия, вы можете бить меня? 
+GameServerScript.AI.NPC.NormalQueenAntAi.msg7: мир один меньше идиот. 
+GameServerScript.AI.NPC.NormalQueenAntAi.msg8: государственные служащие - чтобы избавиться от захватчиков! 
+GameServerScript.AI.NPC.NormalQueenAntAi.msg9: эскорт! Эскорт! !
+GameServerScript.AI.NPC.NormalQueenAntAi.msg10: Для вашей победы, <br/> мой огонь! 
+GameServerScript.AI.NPC.NormalQueenAntAi.msg11: Я взял тебя на полшага вперед еще раз, чтобы убить вас! 
+GameServerScript.AI.NPC.NormalQueenAntAi.msg12: Высокая! <br/> очень высока! 
+GameServerScript.AI.NPC.NormalQueenAntAi.msg13: Не закрывайте сестры, мои сестры у вас рвота с кровью! 
+GameServerScript.AI.NPC.NormalQueenAntAi.msg14: Вы так думаете мертв? ! <br/> в пользу вас! !
+GameServerScript.AI.NPC.NormalQueenAntAi.msg15: ах, мое лицо ... ...
+GameServerScript.AI.NPC.NormalQueenAntAi.msg16: хм, мне дали красивый броня была поцарапана ... ... 
+GameServerScript.AI.NPC.NormalQueenAntAi.msg17: ах, вся ... это ... я не ... есть ... ...
+GameServerScript.AI.NPC.SimpleBomblingNpc.msg1: Эй, ​​эй, эй, вот я приду! 
+GameServerScript.AI.NPC.SimpleBomblingNpc.msg2: и я закончить его! 
+GameServerScript.AI.NPC.SimpleBomblingNpc.msg3: не могу позволить тебе жить! 
+GameServerScript.AI.NPC.SimpleBomblingNpc.msg4: Моя миссия состоит в уничтожении вас! 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg1: вы поцелуй смерти! 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg2: Вы поймите меня с ума! 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg3: Непобедимый землетрясение ... ... <br/> шок шок ... ... ... ... 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg4: попал в стекло.
+GameServerScript.AI.NPC.SimpleCaptainAi.msg5: более детальный вид Кота ваши критерии
+GameServerScript.AI.NPC.SimpleCaptainAi.msg6: отправить тебя обратно домой! 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg7: одна иллюзия, вы можете бить меня? 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg8: команда! <br/> Защищенный! ! 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg9: Буфер Бу! ! <br/> дать мне некоторую помощь! ! 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg10: Для вашей победы, <br/> мой огонь! 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg11: Я взял тебя на полшага вперед еще раз, чтобы убить вас! 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg12: Высокая! <br/> очень высока! 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg13: супер-смертник! ! 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg14: отправить тебя обратно домой! 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg15: одна иллюзия, вы можете бить меня? 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg16: Ой! Боль ... 
+GameServerScript.AI.NPC.SimpleCaptainAi.msg17: Я тоже жил в начале ...
+GameServerScript.AI.NPC.SimpleCaptainAi.msg18: Да здравствует король! ! <br/> ах ...... 
+GameServerScript.AI.NPC.SimpleKingFirst.msg1: себе землетрясения! ! <br/> Ай вы, пожалуйста, помогите 
+GameServerScript.AI.NPC.SimpleKingFirst.msg2: шокировать свое оружие! 
+GameServerScript.AI.NPC.SimpleKingFirst.msg3: Вы можете стоять, чтобы увидеть некоторые! !
+GameServerScript.AI.NPC.SimpleKingFirst.msg4: вы знаете, что трещины выстрел! 
+GameServerScript.AI.NPC.SimpleKingFirst.msg5: дать вам мяч - у вас есть, чтобы выбрать Да 
+GameServerScript.AI.NPC.SimpleKingFirst.msg6: Ваше незнание нижней группы людей 
+GameServerScript.AI.NPC.SimpleKingFirst.msg7: й ой Джон Джон Джон Джон <br/> ~ ~ ~ 
+GameServerScript.AI.NPC.SimpleKingFirst.msg8: Аллилуйя <br/> Для ~ ~ ~
+GameServerScript.AI.NPC.SimpleKingFirst.msg9: Да да да, <br/> ах хороший комфорт! 
+GameServerScript.AI.NPC.SimpleKingFirst.msg10: Доминирование! ! 
+GameServerScript.AI.NPC.SimpleKingFirst.msg11: Матиас Не контролировать меня! 
+GameServerScript.AI.NPC.SimpleKingFirst.msg12: Это вызов моей судьбы! 
+GameServerScript.AI.NPC.SimpleKingFirst.msg13: Нет! ! Это не моя воля ... 
+GameServerScript.AI.NPC.SimpleKingFirst.msg14: О ~ Почему вы нападать на меня? <br/> Что я делаю?
+GameServerScript.AI.NPC.SimpleKingFirst.msg15: О - это боль Почему я должен бороться!? Я должен бороться ...
+GameServerScript.AI.NPC.SimpleKingFirst.msg16: Прощание с моей стране ... моего народа ... Я всегда проклинал царя Матиас бомба вы!
+GameServerScript.AI.NPC.SimpleKingLast.msg1: посмотрите на мои навыки!
+GameServerScript.AI.NPC.SimpleKingLast.msg2: Это крутой трюк он, <br/> не хотят учиться? 
+GameServerScript.AI.NPC.SimpleKingLast.msg3: пропустил его! ! ! <br/> скромный пыль!
+GameServerScript.AI.NPC.SimpleKingLast.msg4: Вы будете платить за это! 
+GameServerScript.AI.NPC.SimpleKingLast.msg5: вы мне щекотать вас? 
+GameServerScript.AI.NPC.SimpleKingLast.msg6: Я не могу просто быть потрачены впустую, как вы избили его! 
+GameServerScript.AI.NPC.SimpleKingLast.msg7: О, вы играете хорошо мне больно, <br/> ха-ха-ха-ха! 
+GameServerScript.AI.NPC.SimpleKingLast.msg8: Тут тут, так что атака! 
+GameServerScript.AI.NPC.SimpleKingLast.msg9: Я вижу вашу честь! 
+GameServerScript.AI.NPC.SimpleKingLast.msg10: дже ах, <br/> их сильный аромат бомба!
+GameServerScript.AI.NPC.SimpleKingLast.msg11: Я использовал весь фокус в том, чтобы заставить вас! 
+GameServerScript.AI.NPC.SimpleKingLast.msg12: Вы до смерти? 
+GameServerScript.AI.NPC.SimpleKingLast.msg13: дополнительная мерное Луу Vong! 
+GameServerScript.AI.NPC.SimpleKingLast.msg14: Разрушение это ваш единственный назначения!
+GameServerScript.AI.NPC.SimpleKingLast.msg15: это слишком просто, чтобы получить травму! 
+GameServerScript.AI.NPC.SimpleKingLast.msg16: О - вы играете хорошо мне больно! <br/> ah ха-ха-ха-ха! 
+GameServerScript.AI.NPC.SimpleKingLast.msg17: вы просто должны эту способность? ! 
+GameServerScript.AI.NPC.SimpleKingLast.msg18: Да - мало значит
+GameServerScript.AI.NPC.SimpleKingLast.msg19: Как вы думаете, вы выиграли? Материя еще далек от завершения! Я вернусь! 
+GameServerScript.AI.NPC.SimpleKingSecond.msg1: себе землетрясения! ! <br/> Ай вы, пожалуйста, помогите 
+GameServerScript.AI.NPC.SimpleKingSecond.msg2: шокировать свое оружие! 
+GameServerScript.AI.NPC.SimpleKingSecond.msg3: Вы можете стоять, чтобы увидеть некоторые! !
+GameServerScript.AI.NPC.SimpleKingSecond.msg4: вы знаете, что трещины выстрел! 
+GameServerScript.AI.NPC.SimpleKingSecond.msg5: дать вам мяч - у вас есть, чтобы выбрать Да 
+GameServerScript.AI.NPC.SimpleKingSecond.msg6: Ваше незнание нижней группы людей 
+GameServerScript.AI.NPC.SimpleKingSecond.msg7: й ой Джон Джон Джон Джон <br/> ~ ~ ~ 
+GameServerScript.AI.NPC.SimpleKingSecond.msg8: Аллилуйя <br/> Для ~ ~ ~
+GameServerScript.AI.NPC.SimpleKingSecond.msg9: Да да да, <br/> ах хороший комфорт! 
+GameServerScript.AI.NPC.SimpleKingSecond.msg10: Доминирование! ! 
+GameServerScript.AI.NPC.SimpleKingSecond.msg11: Это аромат 
+GameServerScript.AI.NPC.SimpleKingSecond.msg12: позволяет вам успокоиться
+GameServerScript.AI.NPC.SimpleKingSecond.msg13: Bạn tức giận tôi tốt 
+GameServerScript.AI.NPC.SimpleKingSecond.msg14: Боже, дай мне силы!
+GameServerScript.AI.NPC.SimpleKingSecond.msg15: это отчаянно, глядя на моей стене кристаллов защиты!
+GameServerScript.AI.NPC.SimpleKingSecond.msg16: Матиас Не контролировать меня! 
+GameServerScript.AI.NPC.SimpleKingSecond.msg17: Это вызов моей судьбы! 
+GameServerScript.AI.NPC.SimpleKingSecond.msg18: Нет! ! Это не моя воля ... 
+GameServerScript.AI.NPC.SimpleKingSecond.msg19: О ~ Почему вы нападать на меня? <br/> Что я делаю?
+GameServerScript.AI.NPC.SimpleKingSecond.msg20: О - это боль Почему я должен бороться!? Я должен бороться ...
+GameServerScript.AI.NPC.SimpleKingSecond.msg21: Прощание с моей стране ... моего народа ... Я всегда проклинал царя Матиас бомба вы!
+GameServerScript.AI.NPC.SimpleKingSecond.msg22: маленькие, они научили меня хорошим уроком враг! 
+GameServerScript.AI.NPC.SimpleKingZhen.msg1: посмотрите на мои навыки!
+GameServerScript.AI.NPC.SimpleKingZhen.msg2: Это крутой трюк он, <br/> не хотят учиться? 
+GameServerScript.AI.NPC.SimpleKingZhen.msg3: пропустил его! ! ! <br/> скромный пыль!
+GameServerScript.AI.NPC.SimpleKingZhen.msg4: Вы будете платить за это! 
+GameServerScript.AI.NPC.SimpleKingZhen.msg5: вы мне щекотать вас? 
+GameServerScript.AI.NPC.SimpleKingZhen.msg6: Я не могу просто быть потрачены впустую, как вы избили его! 
+GameServerScript.AI.NPC.SimpleKingZhen.msg7: О, вы играете хорошо мне больно, <br/> ха-ха-ха-ха! 
+GameServerScript.AI.NPC.SimpleKingZhen.msg8: Тут тут, так что атака! 
+GameServerScript.AI.NPC.SimpleKingZhen.msg9: Я вижу вашу честь! 
+GameServerScript.AI.NPC.SimpleKingZhen.msg10: дже ах, <br/> их сильный аромат бомба!
+GameServerScript.AI.NPC.SimpleKingZhen.msg11: Я использовал весь фокус в том, чтобы заставить вас! 
+GameServerScript.AI.NPC.SimpleKingZhen.msg12: Вы до смерти? 
+GameServerScript.AI.NPC.SimpleKingZhen.msg13: дополнительная мерное Луу Vong! ! 
+GameServerScript.AI.NPC.SimpleKingZhen.msg14: Разрушение это ваш единственный назначения!
+GameServerScript.AI.NPC.SimpleKingZhen.msg15: это слишком просто, чтобы получить травму! 
+GameServerScript.AI.NPC.SimpleKingZhen.msg16: О - вы играете хорошо мне больно! <br/> ah ха-ха-ха-ха! 
+GameServerScript.AI.NPC.SimpleKingZhen.msg17: вы просто должны эту способность? ! 
+GameServerScript.AI.NPC.SimpleKingZhen.msg18: Да - немного имею в виду!
+GameServerScript.AI.NPC.SimpleKingZhen.msg19: Даже если я умру, я также будет сопровождаться бесконечным желанием этот мир навсегда! 
+GameServerScript.AI.NPC.SimpleKingZhen.msg20: Ха-ха, я имел полную мощность! 
+GameServerScript.AI.NPC.SimpleNpcAi.msg1: К чести! Чтобы выиграть! ! 
+GameServerScript.AI.NPC.SimpleNpcAi.msg2: сохранить свое оружие, не трясите ах ~ 
+GameServerScript.AI.NPC.SimpleNpcAi.msg3: Для борьбы с королем! 
+GameServerScript.AI.NPC.SimpleNpcAi.msg4: враг у стороны, мы готовы к бою!
+GameServerScript.AI.NPC.SimpleNpcAi.msg5: Король чувствуют себя более недавнее странное поведение ......
+GameServerScript.AI.NPC.SimpleNpcAi.msg6: Бу буфер к победе! ! Братья взимается!
+GameServerScript.AI.NPC.SimpleNpcAi.msg7: Быстрый и уничтожим врага! 
+GameServerScript.AI.NPC.SimpleNpcAi.msg8: все в силовыми номерами! 
+GameServerScript.AI.NPC.SimpleNpcAi.msg9: все быстро! 
+GameServerScript.AI.NPC.SimpleNpcAi.msg10: Окруженный врагов и убивать их. 
+GameServerScript.AI.NPC.SimpleNpcAi.msg11: подкрепления! Подкрепление! Нам нужно больше подкреплений! ! 
+GameServerScript.AI.NPC.SimpleNpcAi.msg12: даже их жертва, также планирует завершить завоевание человечества.
+GameServerScript.AI.NPC.SimpleNpcAi.msg13: Не стоит недооценивать силу Boo буфера, или вы будете платить цену. 
+GameServerScript.AI.NPC.SimpleNpcAi.msg14: бороться ... бороться ... ограбление! 
+GameServerScript.AI.NPC.SimpleNpcAi.msg15: удалить захватчиков, королева наградит меня! 
+GameServerScript.AI.NPC.SimpleNpcAi.msg16: получить расширенную камень, я могу модернизировать оружие!
+GameServerScript.AI.NPC.SimpleNpcAi.msg17: Заморозить все деньги из комнаты, его собственной жизни.
+GameServerScript.AI.NPC.SimpleNpcAi.msg18: выплатить все, что имеет значение! 
+GameServerScript.AI.NPC.SimpleNpcAi.msg19: Не вините меня, жизненная сила - вынуждены! 
+GameServerScript.AI.NPC.SimpleNpcAi.msg20: первый, это наша линия. 
+GameServerScript.AI.NPC.SimpleNpcAi.msg21: свирепые воины будут королева волос.
+GameServerScript.AI.NPC.SimpleNpcAi.msg22: Не стоит недооценивать нас! 
+GameServerScript.AI.NPC.SimpleNpcAi.msg23: Все вещи принадлежат королеве! 
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg1: вы поцелуй смерти! 
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg2: Вы поймите меня с ума! 
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg3: Непобедимый землетрясение ... ... <br/> шок шок ... ... ... ... 
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg4: сфотографироваться с большой точностью! 
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg5: Вы знаете мое плохое!
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg6: одна иллюзия, вы можете бить меня? 
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg7: мир один меньше идиот. 
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg8: государственные служащие - чтобы избавиться от захватчиков! 
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg9: эскорт! Эскорт! !
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg10: Для вашей победы, <br/> мой огонь! 
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg11: Я взял тебя на полшага вперед еще раз, чтобы убить вас! 
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg12: Высокая! <br/> очень высока! 
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg13: Не закрывайте сестры, мои сестры у вас рвота с кровью! 
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg14: Вы так думаете мертв? ! <br/> в пользу вас! !
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg15: ах, мое лицо ... ...
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg16: хм, мне дали красивый броня была поцарапана ... ... 
+GameServerScript.AI.NPC.SimpleQueenAntAi.msg17: ах, вся ... это ... я не ... есть ... ...
+GameServerScript.AI.NPC.TerrorCaptainAi.msg1: вы поцелуй смерти! 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg2: Вы поймите меня с ума! 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg3: Непобедимый землетрясение ... ... <br/> шок шок ... ... ... ... 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg4: попал в стекло.
+GameServerScript.AI.NPC.TerrorCaptainAi.msg5: более детальный вид Кота ваши критерии
+GameServerScript.AI.NPC.TerrorCaptainAi.msg6: отправить тебя обратно домой! 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg7: одна иллюзия, вы можете бить меня? 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg8: команда! <br/> Защищенный! ! 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg9: Буфер Бу! ! <br/> дать мне некоторую помощь! 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg10: Для вашей победы, <br/> мой огонь! 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg11: Я взял тебя на полшага вперед еще раз, чтобы убить вас! 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg12: Высокая! <br/> очень высока! 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg13: супер-смертник! ! 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg14: отправить тебя обратно домой! 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg15: одна иллюзия, вы можете бить меня? 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg16: Ой! Боль ... 
+GameServerScript.AI.NPC.TerrorCaptainAi.msg17: Я тоже жил в начале ...
+GameServerScript.AI.NPC.TerrorCaptainAi.msg18: Да здравствует король! ! <br/> ах ...... 
+GameServerScript.AI.NPC.TerrorKingFirst.msg1: себе землетрясения! ! <br/> Ай вы, пожалуйста, помогите 
+GameServerScript.AI.NPC.TerrorKingFirst.msg2: шокировать свое оружие! 
+GameServerScript.AI.NPC.TerrorKingFirst.msg3: Вы можете стоять, чтобы увидеть некоторые! !
+GameServerScript.AI.NPC.TerrorKingFirst.msg4: вы знаете, что трещины выстрел! 
+GameServerScript.AI.NPC.TerrorKingFirst.msg5: дать вам мяч - у вас есть, чтобы выбрать Да 
+GameServerScript.AI.NPC.TerrorKingFirst.msg6: Ваше незнание нижней группы людей 
+GameServerScript.AI.NPC.TerrorKingFirst.msg7: й ой Джон Джон Джон Джон <br/> ~ ~ ~ 
+GameServerScript.AI.NPC.TerrorKingFirst.msg8: Аллилуйя <br/> Для ~ ~ ~
+GameServerScript.AI.NPC.TerrorKingFirst.msg9: Да да да, <br/> ах хороший комфорт! 
+GameServerScript.AI.NPC.TerrorKingFirst.msg10: Доминирование! ! 
+GameServerScript.AI.NPC.TerrorKingFirst.msg11: Матиас Не контролировать меня! 
+GameServerScript.AI.NPC.TerrorKingFirst.msg12: Это вызов моей судьбы! 
+GameServerScript.AI.NPC.TerrorKingFirst.msg13: Нет! ! Это не моя воля ... 
+GameServerScript.AI.NPC.TerrorKingFirst.msg14: О ~ Почему вы нападать на меня? <br/> Что я делаю?
+GameServerScript.AI.NPC.TerrorKingFirst.msg15: О - это боль Почему я должен бороться!? Я должен бороться ...
+GameServerScript.AI.NPC.TerrorKingFirst.msg16: Прощание с моей стране ... моего народа ... Я всегда проклинал царя Матиас бомба вы!
+GameServerScript.AI.NPC.TerrorKingLast.msg1: посмотрите на мои навыки!
+GameServerScript.AI.NPC.TerrorKingLast.msg2: Это крутой трюк он, <br/> не хотят учиться? 
+GameServerScript.AI.NPC.TerrorKingLast.msg3: пропустил его! ! ! <br/> скромный пыль!
+GameServerScript.AI.NPC.TerrorKingLast.msg4: Вы будете платить за это! 
+GameServerScript.AI.NPC.TerrorKingLast.msg5: вы мне щекотать вас? 
+GameServerScript.AI.NPC.TerrorKingLast.msg6: Я не могу просто быть потрачены впустую, как вы избили его! 
+GameServerScript.AI.NPC.TerrorKingLast.msg7: О, вы играете хорошо мне больно, <br/> ха-ха-ха-ха! 
+GameServerScript.AI.NPC.TerrorKingLast.msg8: Тут тут, так что атака! 
+GameServerScript.AI.NPC.TerrorKingLast.msg9: Я вижу вашу честь! 
+GameServerScript.AI.NPC.TerrorKingLast.msg10: дже ах, <br/> их сильный аромат бомба!
+GameServerScript.AI.NPC.TerrorKingLast.msg11: Я использовал весь фокус в том, чтобы заставить вас! 
+GameServerScript.AI.NPC.TerrorKingLast.msg12: Вы до смерти? 
+GameServerScript.AI.NPC.TerrorKingLast.msg13: дополнительная мерное Луу Vong! ! 
+GameServerScript.AI.NPC.TerrorKingLast.msg14: Разрушение это ваш единственный назначения!
+GameServerScript.AI.NPC.TerrorKingLast.msg15: это слишком просто, чтобы получить травму! 
+GameServerScript.AI.NPC.TerrorKingLast.msg16: О - вы играете хорошо мне больно! <br/> ah ха-ха-ха-ха! 
+GameServerScript.AI.NPC.TerrorKingLast.msg17: вы просто должны эту способность? ! 
+GameServerScript.AI.NPC.TerrorKingLast.msg18: Да - мало значит
+GameServerScript.AI.NPC.TerrorKingLast.msg19: Как вы думаете, вы выиграли? Материя еще далек от завершения! Я вернусь! 
+GameServerScript.AI.NPC.TerrorKingSecond.msg1: себе землетрясения! ! <br/> Ай вы, пожалуйста, помогите 
+GameServerScript.AI.NPC.TerrorKingSecond.msg2: шокировать свое оружие! 
+GameServerScript.AI.NPC.TerrorKingSecond.msg3: Вы можете стоять, чтобы увидеть некоторые! !
+GameServerScript.AI.NPC.TerrorKingSecond.msg4: вы знаете, что трещины выстрел! 
+GameServerScript.AI.NPC.TerrorKingSecond.msg5: дать вам мяч - у вас есть, чтобы выбрать Да 
+GameServerScript.AI.NPC.TerrorKingSecond.msg6: Ваше незнание нижней группы людей 
+GameServerScript.AI.NPC.TerrorKingSecond.msg7: й ой Джон Джон Джон Джон <br/> ~ ~ ~ 
+GameServerScript.AI.NPC.TerrorKingSecond.msg8: Аллилуйя <br/> Для ~ ~ ~
+GameServerScript.AI.NPC.TerrorKingSecond.msg9: Да да да, <br/> ах хороший комфорт! 
+GameServerScript.AI.NPC.TerrorKingSecond.msg10: Доминирование! ! 
+GameServerScript.AI.NPC.TerrorKingSecond.msg11: Это аромат 
+GameServerScript.AI.NPC.TerrorKingSecond.msg12: Oh, bạn nhìn mát 
+GameServerScript.AI.NPC.TerrorKingSecond.msg13: Ты злишься 
+GameServerScript.AI.NPC.TerrorKingSecond.msg14: Боже, дай мне силы!
+GameServerScript.AI.NPC.TerrorKingSecond.msg15: это отчаянно, глядя на моей стене кристаллов защиты!
+GameServerScript.AI.NPC.TerrorKingSecond.msg16: Матиас Не контролировать меня! Oh 
+GameServerScript.AI.NPC.TerrorKingSecond.msg17: Это вызов моей судьбы! 
+GameServerScript.AI.NPC.TerrorKingSecond.msg18: Нет! ! Это не моя воля ... 
+GameServerScript.AI.NPC.TerrorKingSecond.msg19: О ~ Почему вы нападать на меня? <br/> Что я делаю?Oh 
+GameServerScript.AI.NPC.TerrorKingSecond.msg20: О - это боль Почему я должен бороться!? О, я должен бороться ...
+GameServerScript.AI.NPC.TerrorKingSecond.msg21: Я, наконец, избавился от головной боли Матиас управления ах!
+GameServerScript.AI.NPC.TerrorKingSecond.msg22: маленькие, они научили меня хорошим уроком враг! 
+GameServerScript.AI.NPC.TerrorKingZhen.msg1: посмотрите на мои навыки!
+GameServerScript.AI.NPC.TerrorKingZhen.msg2: Это крутой трюк он, <br/> не хотят учиться? 
+GameServerScript.AI.NPC.TerrorKingZhen.msg3: пропустил его! ! ! <br/> скромный пыль!
+GameServerScript.AI.NPC.TerrorKingZhen.msg4: Вы будете платить за это! 
+GameServerScript.AI.NPC.TerrorKingZhen.msg5: вы мне щекотать вас? 
+GameServerScript.AI.NPC.TerrorKingZhen.msg6: Я не могу просто быть потрачены впустую, как вы избили его! 
+GameServerScript.AI.NPC.TerrorKingZhen.msg7: О, вы играете хорошо мне больно, <br/> ха-ха-ха-ха! 
+GameServerScript.AI.NPC.TerrorKingZhen.msg8: Тут тут, так что атака! 
+GameServerScript.AI.NPC.TerrorKingZhen.msg9: Я вижу вашу честь! 
+GameServerScript.AI.NPC.TerrorKingZhen.msg10: дже ах, <br/> их сильный аромат бомба!
+GameServerScript.AI.NPC.TerrorKingZhen.msg11: Я использовал весь фокус в том, чтобы заставить вас! 
+GameServerScript.AI.NPC.TerrorKingZhen.msg12: Вы до смерти? 
+GameServerScript.AI.NPC.TerrorKingZhen.msg13: дополнительная мерное Луу Vong! 
+GameServerScript.AI.NPC.TerrorKingZhen.msg14: Разрушение это ваш единственный назначения!
+GameServerScript.AI.NPC.TerrorKingZhen.msg15: это слишком просто, чтобы получить травму! 
+GameServerScript.AI.NPC.TerrorKingZhen.msg16: О - вы играете хорошо мне больно! <br/> ah ха-ха-ха-ха! 
+GameServerScript.AI.NPC.TerrorKingZhen.msg17: вы просто должны эту способность? ! ! 
+GameServerScript.AI.NPC.TerrorKingZhen.msg18: Да - мало значит
+GameServerScript.AI.NPC.TerrorKingZhen.msg19: Даже если я умру, я также будет сопровождаться бесконечным желанием этот мир навсегда! 
+GameServerScript.AI.NPC.TerrorKingZhen.msg20: Ха-ха, я имел полную мощность! ! 
+ExchangeMoneyToGoldHandler.nomoney: Вы не должны достаточно очков купоны. 
+ExchangeMoneyToGoldHandler.success: {0} Вы получаете золото. 
+GetGPreward: вызов для сильного, смелого! Поздравляем, вы получите 200 очков бонуса опыта.
+
+
+#2011/09/15
+ItemReclaimHandler.Success1:Вы получаете {0}  ключ Сюй
+ItemReclaimHandler.Success2:Вы получаете {0}  Золото
+ItemReclaimHandler.NotSuccess: Продаем провал.
+PVPGame.SendGameOVer.Msg1:Вы получаете {0}  Сюй
+
+
